@@ -217,10 +217,10 @@ def end_of_round(self, last_game_state: dict, last_action: str, events: List[str
         # Modify the last "last" entries in memory
         for i in range(len(self.memory) - min(last, len(self.memory)-1)-1, len(self.memory) - 2, 1):
             old_state, action, reward, new_state = self.memory[i]
-            if not np.sqrt((old_state[2][0])**2+(old_state[2][1])**2)<np.sqrt((new_state[2][0])**2+(new_state[2][1])**2):
+            if np.sqrt((old_state[2][0])**2+(old_state[2][1])**2)<np.sqrt((new_state[2][0])**2+(new_state[2][1])**2):
                 self.memory[i] = (old_state, action, reward + add_reward, new_state)
                 self.game_reward += add_reward
-            if not np.sqrt((old_state[2][0])**2+(old_state[2][1])**2)>=np.sqrt((new_state[2][0])**2+(new_state[2][1])**2):
+            if np.sqrt((old_state[2][0])**2+(old_state[2][1])**2)>=np.sqrt((new_state[2][0])**2+(new_state[2][1])**2):
                 self.memory[i] = (old_state, action, reward + minus_reward, new_state)
                 self.game_reward += minus_reward
         if len(self.memory) > last:

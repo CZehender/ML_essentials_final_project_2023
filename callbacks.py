@@ -140,15 +140,15 @@ def calculate_gravD_coins (own_x: int, own_y: int, game_state: dict) -> torch.te
             relativ_center_of_gravity_x = own_x-center_of_gravity_x
             relativ_center_of_gravity_y = own_y-center_of_gravity_y
         else: 
-            relativ_center_of_gravity_x=1000000.
-            relativ_center_of_gravity_y=1000000.
-            density=-1.
+            relativ_center_of_gravity_x=float("nan")
+            relativ_center_of_gravity_y=float("nan")
+            density=float("nan")
     else:
-        obj_x = 1000000.
-        obj_y = 1000000.
-        relativ_center_of_gravity_x=1000000.
-        relativ_center_of_gravity_y=1000000.
-        density=-1.
+        obj_x = float("nan")
+        obj_y = float("nan")
+        relativ_center_of_gravity_x= float("nan")
+        relativ_center_of_gravity_y= float("nan")
+        density= float("nan")
     return torch.tensor([obj_x, obj_y, relativ_center_of_gravity_x, relativ_center_of_gravity_y, density, float(count_obj)], dtype=torch.float)
 
 
@@ -179,15 +179,15 @@ def calculate_gravD_others (own_x: int, own_y: int, game_state: dict) -> torch.t
             relativ_center_of_gravity_x = own_x-center_of_gravity_x
             relativ_center_of_gravity_y = own_y-center_of_gravity_y
         else: 
-            relativ_center_of_gravity_x=1000000.
-            relativ_center_of_gravity_y=1000000.
-            density=-1.
+            relativ_center_of_gravity_x= float("nan")
+            relativ_center_of_gravity_y= float("nan")
+            density= float("nan")
     else:
-        obj_x = 1000000.
-        obj_y = 1000000.
-        relativ_center_of_gravity_x=1000000.
-        relativ_center_of_gravity_y=1000000.
-        density=-1.
+        obj_x = float("nan")
+        obj_y = float("nan")
+        relativ_center_of_gravity_x= float("nan")
+        relativ_center_of_gravity_y= float("nan")
+        density= float("nan")
     return torch.tensor([obj_x, obj_y, relativ_center_of_gravity_x, relativ_center_of_gravity_y, density, float(count_obj)], dtype=torch.float)
 
 
@@ -216,16 +216,16 @@ def calculate_gravD_bombs (own_x: int, own_y: int, game_state: dict) -> torch.te
             relativ_center_of_gravity_x = own_x-center_of_gravity_x
             relativ_center_of_gravity_y = own_y-center_of_gravity_y
         else: 
-            relativ_center_of_gravity_x=1000000.
-            relativ_center_of_gravity_y=1000000.
-            mean_timer=401.
+            relativ_center_of_gravity_x= float("nan")
+            relativ_center_of_gravity_y= float("nan")
+            mean_timer= float("nan")
     else:
-        obj_x = 1000000.
-        obj_y = 1000000.
-        timer=401.
-        relativ_center_of_gravity_x=1000000.
-        relativ_center_of_gravity_y=1000000.
-        mean_timer=401.
+        obj_x = float("nan")
+        obj_y = float("nan")
+        timer= float("nan")
+        relativ_center_of_gravity_x= float("nan")
+        relativ_center_of_gravity_y= float("nan")
+        mean_timer= float("nan")
     return torch.tensor([obj_x, obj_y, timer, relativ_center_of_gravity_x, relativ_center_of_gravity_y, mean_timer], dtype=torch.float)
 
 
@@ -258,15 +258,15 @@ def calculate_gravD_crates (own_x: int, own_y: int, game_state: dict) -> torch.t
             relativ_center_of_gravity_x = own_x-center_of_gravity_x
             relativ_center_of_gravity_y = own_y-center_of_gravity_y
         else: 
-            relativ_center_of_gravity_x=1000000.
-            relativ_center_of_gravity_y=1000000.
-            density=-1.
+            relativ_center_of_gravity_x= float("nan")
+            relativ_center_of_gravity_y= float("nan")
+            density= float("nan")
     else:
-        obj_x = 1000000.
-        obj_y = 1000000.
-        relativ_center_of_gravity_x=1000000.
-        relativ_center_of_gravity_y=1000000.
-        density=-1.
+        obj_x = float("nan")
+        obj_y = float("nan")
+        relativ_center_of_gravity_x= float("nan")
+        relativ_center_of_gravity_y= float("nan")
+        density=float("nan")
     return torch.tensor([obj_x, obj_y, relativ_center_of_gravity_x, relativ_center_of_gravity_y, density, float(count_obj)], dtype=torch.float)
 
 

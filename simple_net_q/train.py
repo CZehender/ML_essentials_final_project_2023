@@ -110,7 +110,7 @@ def train(self, mini_sample):
         # Update the Q-value for the chosen action using the Bellman equation
         if new_state is not None:
             old_q_target=old_q_values.clone()
-            old_q_target[action_index] = reward + self.gamma * torch.max(new_q_values)
+            old_q_target[action_index] = norm_reward + self.gamma * torch.max(new_q_values)
 
 
         # Calculate loss and perform optimization step

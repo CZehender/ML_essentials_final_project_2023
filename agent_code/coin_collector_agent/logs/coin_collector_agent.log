@@ -1,0 +1,1201 @@
+2023-09-13 21:31:44,881 [coin_collector_agent_code] DEBUG: Successfully entered setup code
+2023-09-13 21:31:45,499 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:45,499 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:31:45,500 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 14)
+2023-09-13 21:31:45,511 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:45,511 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:45,512 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 14)
+2023-09-13 21:31:45,609 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:45,609 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:45,609 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:45,714 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:45,714 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:31:45,715 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:45,814 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:45,814 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:45,814 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:45,915 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:45,915 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:31:45,915 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:46,012 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,012 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:31:46,013 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:46,116 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,116 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:31:46,116 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:46,213 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,213 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:46,214 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:46,314 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,314 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:46,315 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 15)
+2023-09-13 21:31:46,414 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,414 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:46,414 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:46,516 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,516 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:31:46,517 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:46,615 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,616 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'WAIT']
+2023-09-13 21:31:46,617 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:46,717 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,717 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2023-09-13 21:31:46,718 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:46,818 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,818 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:46,819 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:46,919 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:46,919 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:46,920 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:47,019 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,019 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:47,020 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:47,120 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,120 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:47,121 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 10)
+2023-09-13 21:31:47,222 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,222 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:47,222 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,322 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,322 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:31:47,323 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,422 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,423 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:47,423 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,524 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,524 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:31:47,525 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,628 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,629 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:31:47,629 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,729 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,729 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:31:47,730 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,830 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,830 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:47,831 [coin_collector_agent_code] DEBUG: Suitable target found at (4, 11)
+2023-09-13 21:31:47,931 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:47,931 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:47,933 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 9)
+2023-09-13 21:31:48,032 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,032 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2023-09-13 21:31:48,034 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 9)
+2023-09-13 21:31:48,133 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,133 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:48,135 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:48,233 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,233 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:48,235 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 14)
+2023-09-13 21:31:48,333 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,334 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:48,335 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:48,435 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,435 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2023-09-13 21:31:48,437 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 14)
+2023-09-13 21:31:48,536 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,536 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:48,537 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:48,636 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,636 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:31:48,637 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 14)
+2023-09-13 21:31:48,736 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,736 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:48,736 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 14)
+2023-09-13 21:31:48,837 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,837 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:48,837 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:48,938 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:48,938 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:48,938 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,038 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,038 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:31:49,039 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,139 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,139 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2023-09-13 21:31:49,140 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,243 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,243 [coin_collector_agent_code] DEBUG: Valid actions: ['WAIT']
+2023-09-13 21:31:49,243 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,340 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,340 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:31:49,341 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,441 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,441 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:31:49,442 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,542 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,542 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:49,543 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 15)
+2023-09-13 21:31:49,642 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,642 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:49,644 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:49,743 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,743 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2023-09-13 21:31:49,745 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:49,844 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,844 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:49,845 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:49,945 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:49,945 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:49,946 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:50,043 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,043 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2023-09-13 21:31:50,044 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:50,141 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,142 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:50,142 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:50,241 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,242 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:50,242 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 13)
+2023-09-13 21:31:50,343 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,343 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:50,344 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 14)
+2023-09-13 21:31:50,444 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,444 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:50,446 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 14)
+2023-09-13 21:31:50,544 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,544 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:50,545 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 14)
+2023-09-13 21:31:50,645 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,645 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2023-09-13 21:31:50,646 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 14)
+2023-09-13 21:31:50,746 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,746 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:31:50,748 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 15)
+2023-09-13 21:31:50,852 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,852 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2023-09-13 21:31:50,854 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 15)
+2023-09-13 21:31:50,953 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:50,953 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:50,955 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 15)
+2023-09-13 21:31:51,053 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,053 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,054 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 15)
+2023-09-13 21:31:51,154 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,154 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,155 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 15)
+2023-09-13 21:31:51,256 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,256 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,258 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:51,356 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,356 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,357 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:51,456 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,456 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,458 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 13)
+2023-09-13 21:31:51,558 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,558 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,559 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 13)
+2023-09-13 21:31:51,659 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,659 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,659 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 13)
+2023-09-13 21:31:51,759 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,759 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:51,759 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 13)
+2023-09-13 21:31:51,859 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,859 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:51,860 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:51,960 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:51,960 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:51,961 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,061 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,061 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:52,062 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,162 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,162 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2023-09-13 21:31:52,163 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,263 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,263 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:31:52,264 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,364 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,364 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2023-09-13 21:31:52,365 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,465 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,465 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:52,466 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,566 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,567 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:52,567 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,667 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,667 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:52,667 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 12)
+2023-09-13 21:31:52,768 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,768 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:52,770 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:52,867 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,867 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:31:52,869 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:52,968 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:52,968 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:52,970 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:53,070 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,070 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:53,072 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:53,171 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,171 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:53,171 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:53,272 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,272 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:53,273 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:53,372 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,372 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:53,373 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 12)
+2023-09-13 21:31:53,473 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,473 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:53,475 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:53,574 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,574 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2023-09-13 21:31:53,576 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:53,674 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,674 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:53,676 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:53,775 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,776 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:53,778 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:53,876 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,876 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:53,878 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:53,977 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:53,977 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:53,978 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:54,078 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,078 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:54,079 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:54,179 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,179 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:54,180 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:54,280 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,280 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:54,280 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 11)
+2023-09-13 21:31:54,381 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,381 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:54,382 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:54,481 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,481 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:54,482 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:54,583 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,583 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:54,584 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:54,683 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,683 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2023-09-13 21:31:54,684 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:54,784 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,784 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:31:54,786 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:54,885 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,885 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:54,887 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:54,986 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:54,986 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:54,988 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:55,087 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,087 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:55,088 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:55,184 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,184 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:55,185 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:55,288 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,288 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:55,289 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:55,389 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,389 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:31:55,389 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 9)
+2023-09-13 21:31:55,490 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,490 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:31:55,491 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:55,590 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,590 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2023-09-13 21:31:55,591 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:55,691 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,691 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:55,692 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:55,791 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,791 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:55,792 [coin_collector_agent_code] DEBUG: Suitable target found at (10, 9)
+2023-09-13 21:31:55,893 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,893 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:31:55,894 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:31:55,993 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:55,993 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:55,995 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:31:56,094 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,094 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,096 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:31:56,195 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,195 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,196 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:31:56,296 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,296 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,296 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:31:56,397 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,397 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,399 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 9)
+2023-09-13 21:31:56,498 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,498 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,499 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 9)
+2023-09-13 21:31:56,598 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,599 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,600 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 9)
+2023-09-13 21:31:56,699 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,699 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,700 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 9)
+2023-09-13 21:31:56,800 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,800 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,801 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 9)
+2023-09-13 21:31:56,900 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:56,900 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:56,901 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 9)
+2023-09-13 21:31:57,001 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,001 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT']
+2023-09-13 21:31:57,006 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 9)
+2023-09-13 21:31:57,101 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,102 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:31:57,106 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 9)
+2023-09-13 21:31:57,201 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,201 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:57,206 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 9)
+2023-09-13 21:31:57,302 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,303 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN']
+2023-09-13 21:31:57,308 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 9)
+2023-09-13 21:31:57,403 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,403 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:31:57,405 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:57,504 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,504 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:57,507 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:57,605 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,605 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:57,607 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:57,706 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,706 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:57,707 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:57,806 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,806 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:57,807 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:57,907 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:57,907 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:57,908 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:58,008 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,008 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:58,008 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 9)
+2023-09-13 21:31:58,109 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,109 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:31:58,109 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 8)
+2023-09-13 21:31:58,209 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,209 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:58,210 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 8)
+2023-09-13 21:31:58,309 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,309 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:31:58,310 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:58,409 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,409 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:58,410 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:58,511 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,511 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:58,512 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:58,611 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,611 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2023-09-13 21:31:58,612 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:58,713 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,713 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:31:58,714 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:58,813 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,813 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:31:58,814 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:58,914 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:58,914 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:58,915 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:59,015 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,015 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:59,016 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:59,115 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,116 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:59,116 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:59,216 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,216 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:31:59,216 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 9)
+2023-09-13 21:31:59,317 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,317 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT']
+2023-09-13 21:31:59,319 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:31:59,418 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,418 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:31:59,420 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:31:59,518 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,518 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:59,520 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:31:59,619 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,619 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:31:59,622 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:31:59,720 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,721 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2023-09-13 21:31:59,724 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:31:59,822 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,822 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:31:59,824 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:31:59,923 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:31:59,923 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:31:59,925 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,023 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,024 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:00,025 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,123 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,123 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:00,124 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,224 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,224 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:00,225 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:32:00,324 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,324 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:00,325 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:32:00,425 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,425 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:00,426 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 4)
+2023-09-13 21:32:00,527 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,527 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:32:00,527 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,627 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,627 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:32:00,628 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,729 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,729 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:00,729 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,829 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,829 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2023-09-13 21:32:00,830 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:00,931 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:00,931 [coin_collector_agent_code] DEBUG: Valid actions: ['WAIT']
+2023-09-13 21:32:00,931 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:01,031 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,032 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:01,032 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:01,129 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,129 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:01,129 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:01,233 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,234 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:32:01,234 [coin_collector_agent_code] DEBUG: Suitable target found at (8, 5)
+2023-09-13 21:32:01,334 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,334 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:01,335 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 1)
+2023-09-13 21:32:01,434 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,435 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:01,436 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 1)
+2023-09-13 21:32:01,535 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,535 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:01,537 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 1)
+2023-09-13 21:32:01,636 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,636 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2023-09-13 21:32:01,637 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 1)
+2023-09-13 21:32:01,737 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,737 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:01,738 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 5)
+2023-09-13 21:32:01,837 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,837 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:01,839 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 5)
+2023-09-13 21:32:01,938 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:01,938 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:01,939 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 5)
+2023-09-13 21:32:02,039 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,039 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:02,040 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 5)
+2023-09-13 21:32:02,140 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,140 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:02,141 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 5)
+2023-09-13 21:32:02,241 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,241 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:02,242 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 6)
+2023-09-13 21:32:02,341 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,341 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2023-09-13 21:32:02,342 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 6)
+2023-09-13 21:32:02,442 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,442 [coin_collector_agent_code] DEBUG: Valid actions: ['UP']
+2023-09-13 21:32:02,443 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:02,543 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,543 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:02,543 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:02,644 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,644 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:02,645 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:02,745 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,745 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:02,746 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:02,845 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,845 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:02,846 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:02,946 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:02,947 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:02,947 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:03,047 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,047 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:03,048 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:03,147 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,147 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:32:03,148 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 5)
+2023-09-13 21:32:03,248 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,248 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:03,249 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,348 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,348 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:03,349 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,448 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,448 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:03,449 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,549 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,550 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:03,551 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,650 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,651 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:03,652 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,751 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,751 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:03,752 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,852 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,852 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:03,853 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:03,952 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:03,952 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:03,953 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:04,053 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,053 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:04,053 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 3)
+2023-09-13 21:32:04,153 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,153 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:32:04,155 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 2)
+2023-09-13 21:32:04,254 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,254 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:04,256 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 2)
+2023-09-13 21:32:04,354 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,354 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:04,356 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 4)
+2023-09-13 21:32:04,454 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,454 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:04,456 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 2)
+2023-09-13 21:32:04,555 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,555 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:04,556 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 2)
+2023-09-13 21:32:04,652 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,652 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:04,652 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:04,756 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,756 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:04,757 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 2)
+2023-09-13 21:32:04,857 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,857 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:04,858 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 2)
+2023-09-13 21:32:04,957 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:04,958 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:32:04,958 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,058 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,058 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:32:05,059 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,159 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,159 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:05,159 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,260 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,260 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2023-09-13 21:32:05,261 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,361 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,361 [coin_collector_agent_code] DEBUG: Valid actions: ['WAIT']
+2023-09-13 21:32:05,362 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,461 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,461 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:05,462 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,562 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,562 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:05,563 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,663 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,663 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:32:05,664 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 3)
+2023-09-13 21:32:05,764 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,764 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:05,765 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:05,863 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,864 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:05,864 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:05,966 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:05,966 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:05,967 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:06,067 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,070 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2023-09-13 21:32:06,072 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:06,167 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,167 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:06,168 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:06,266 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,266 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:06,268 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:06,368 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,368 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:06,369 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:06,469 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,469 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:32:06,470 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:06,570 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,570 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:32:06,570 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:06,671 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,671 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:06,672 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:06,771 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,771 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2023-09-13 21:32:06,772 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:06,871 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,872 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:06,872 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:06,969 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:06,970 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2023-09-13 21:32:06,971 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:07,073 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,073 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:07,074 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:07,173 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,173 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:07,174 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:07,273 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,274 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:07,274 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:07,374 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,375 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:07,375 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 1)
+2023-09-13 21:32:07,475 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,475 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN']
+2023-09-13 21:32:07,476 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 1)
+2023-09-13 21:32:07,575 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,576 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:07,577 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 1)
+2023-09-13 21:32:07,676 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,676 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:07,677 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 1)
+2023-09-13 21:32:07,777 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,777 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:07,779 [coin_collector_agent_code] DEBUG: Suitable target found at (9, 1)
+2023-09-13 21:32:07,878 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,878 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:32:07,880 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 1)
+2023-09-13 21:32:07,979 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:07,979 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:07,981 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 1)
+2023-09-13 21:32:08,079 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,079 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,080 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 1)
+2023-09-13 21:32:08,181 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,181 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,182 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 1)
+2023-09-13 21:32:08,280 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,280 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,281 [coin_collector_agent_code] DEBUG: Suitable target found at (12, 1)
+2023-09-13 21:32:08,381 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,382 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,384 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:08,482 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,482 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,484 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:08,582 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,583 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,585 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:08,683 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,683 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,684 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:08,783 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,783 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,784 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:08,884 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,884 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,886 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:08,983 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:08,984 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:08,984 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:09,086 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,086 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:09,087 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:09,187 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,187 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:09,188 [coin_collector_agent_code] DEBUG: Suitable target found at (6, 3)
+2023-09-13 21:32:09,289 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,289 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT']
+2023-09-13 21:32:09,291 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:09,389 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,389 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:09,392 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:09,490 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,490 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:09,493 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:09,591 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,591 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:09,594 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:09,692 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,692 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:09,695 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 3)
+2023-09-13 21:32:09,794 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,794 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:09,796 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:09,895 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,895 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:09,896 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:09,996 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:09,996 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:09,997 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:10,096 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,096 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:10,097 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:10,197 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,197 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:10,198 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:10,297 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,297 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:10,298 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:10,398 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,398 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:10,399 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 7)
+2023-09-13 21:32:10,499 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,500 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT']
+2023-09-13 21:32:10,503 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 7)
+2023-09-13 21:32:10,601 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,601 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:10,604 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 7)
+2023-09-13 21:32:10,701 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,702 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:10,705 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 7)
+2023-09-13 21:32:10,802 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,802 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:10,804 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 7)
+2023-09-13 21:32:10,903 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:10,904 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:10,907 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,004 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,004 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:11,007 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,103 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,103 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:11,105 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,205 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,206 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:11,207 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,306 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,306 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:11,307 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,405 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,405 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:11,406 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,506 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,506 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:11,507 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,608 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,608 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:11,608 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 5)
+2023-09-13 21:32:11,709 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,709 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT']
+2023-09-13 21:32:11,714 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:11,809 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,809 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:11,815 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:11,910 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:11,911 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:11,916 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:12,012 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,012 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:12,018 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:12,113 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,113 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:12,115 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 5)
+2023-09-13 21:32:12,214 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,214 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:12,216 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 5)
+2023-09-13 21:32:12,314 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,314 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:12,315 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 5)
+2023-09-13 21:32:12,415 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,415 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:12,416 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 5)
+2023-09-13 21:32:12,515 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,515 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:12,515 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 5)
+2023-09-13 21:32:12,615 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,616 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:12,616 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 5)
+2023-09-13 21:32:12,717 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,717 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT']
+2023-09-13 21:32:12,722 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:12,818 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,818 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:12,823 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:12,918 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:12,918 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:12,923 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:13,019 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,020 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:13,025 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:13,121 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,121 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:13,124 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:13,222 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,222 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:13,224 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:13,323 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,323 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,324 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:13,423 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,423 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,424 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:13,524 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,524 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,525 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:13,625 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,625 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,625 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:13,726 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,726 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,731 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:13,827 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,827 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,832 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:13,928 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:13,928 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:13,933 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,028 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,028 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,031 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,129 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,129 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,134 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,230 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,230 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,235 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,331 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,331 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,336 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,432 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,432 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,436 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,532 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,532 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,536 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,633 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,633 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,636 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,734 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,734 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,737 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,835 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,835 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,838 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:14,936 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:14,936 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:14,938 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,033 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,033 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:15,034 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,138 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,138 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:32:15,140 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,237 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,237 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:15,238 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,341 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,341 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:15,341 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,441 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,442 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2023-09-13 21:32:15,442 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,542 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,542 [coin_collector_agent_code] DEBUG: Valid actions: ['UP']
+2023-09-13 21:32:15,548 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 6)
+2023-09-13 21:32:15,642 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,642 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:15,648 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 5)
+2023-09-13 21:32:15,744 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,744 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:15,750 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 5)
+2023-09-13 21:32:15,844 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,844 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:15,850 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 5)
+2023-09-13 21:32:15,945 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:15,945 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:15,951 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 5)
+2023-09-13 21:32:16,046 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,046 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2023-09-13 21:32:16,052 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 5)
+2023-09-13 21:32:16,147 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,148 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:16,153 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:16,248 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,248 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:16,254 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:16,348 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,348 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN']
+2023-09-13 21:32:16,354 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:16,449 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,450 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:16,456 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:16,550 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,550 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:16,556 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 3)
+2023-09-13 21:32:16,651 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,651 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:16,657 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 7)
+2023-09-13 21:32:16,752 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,752 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:16,754 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:16,853 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,853 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:16,854 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:16,953 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:16,953 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:16,954 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:17,054 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,054 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2023-09-13 21:32:17,055 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:17,155 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,155 [coin_collector_agent_code] DEBUG: Valid actions: ['UP']
+2023-09-13 21:32:17,161 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:17,255 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,255 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2023-09-13 21:32:17,261 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:17,356 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,356 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:17,363 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:17,456 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,456 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2023-09-13 21:32:17,462 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 6)
+2023-09-13 21:32:17,557 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,557 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:17,562 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:17,659 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,659 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:17,665 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 7)
+2023-09-13 21:32:17,760 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,760 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:17,766 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 7)
+2023-09-13 21:32:17,858 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,858 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:17,864 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 7)
+2023-09-13 21:32:17,960 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:17,960 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2023-09-13 21:32:17,965 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 7)
+2023-09-13 21:32:18,060 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,061 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2023-09-13 21:32:18,067 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 7)
+2023-09-13 21:32:18,162 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,162 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:18,168 [coin_collector_agent_code] DEBUG: Suitable target found at (15, 7)
+2023-09-13 21:32:18,263 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,263 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:18,269 [coin_collector_agent_code] DEBUG: Suitable target found at (14, 5)
+2023-09-13 21:32:18,363 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,364 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:18,369 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 7)
+2023-09-13 21:32:18,464 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,464 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:18,470 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:32:18,564 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,564 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:18,570 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:32:18,665 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,665 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:18,671 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:32:18,766 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,766 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2023-09-13 21:32:18,772 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:32:18,867 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,867 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP']
+2023-09-13 21:32:18,872 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:18,967 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:18,967 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2023-09-13 21:32:18,974 [coin_collector_agent_code] DEBUG: Suitable target found at (13, 9)
+2023-09-13 21:32:19,067 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,068 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:19,073 [coin_collector_agent_code] DEBUG: Suitable target found at (11, 7)
+2023-09-13 21:32:19,169 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,169 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:19,175 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,270 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,270 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:19,276 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,370 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,370 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:19,376 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,471 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,471 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:19,476 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,572 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,572 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:19,577 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,671 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,671 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:19,677 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,771 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,771 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:19,777 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,873 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,873 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:19,879 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:19,973 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:19,973 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:19,979 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,073 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,073 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,078 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,175 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,175 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,179 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,275 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,275 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,279 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,376 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,376 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,380 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,477 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,477 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,480 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,577 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,577 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,581 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,678 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,678 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,681 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,779 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,779 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,781 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,880 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,880 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,881 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:20,981 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:20,981 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:20,982 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,082 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,082 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:21,084 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,183 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,183 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:21,184 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,284 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,284 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:21,284 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,384 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,384 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:32:21,385 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,485 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,485 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:21,491 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,586 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,586 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:21,592 [coin_collector_agent_code] DEBUG: Suitable target found at (2, 1)
+2023-09-13 21:32:21,687 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,688 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:21,693 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:21,787 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,787 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:21,793 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:21,889 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,889 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:21,890 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:21,989 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:21,989 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:21,991 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,089 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,090 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:22,091 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,190 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,190 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:22,191 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,290 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,290 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:22,291 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,391 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,391 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:22,392 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,492 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,492 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:22,493 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,593 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,593 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2023-09-13 21:32:22,593 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,693 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,693 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:22,699 [coin_collector_agent_code] DEBUG: Suitable target found at (5, 1)
+2023-09-13 21:32:22,795 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,795 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:22,801 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:22,895 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,895 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:22,901 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:22,995 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:22,995 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT']
+2023-09-13 21:32:23,001 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:23,097 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,097 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:23,102 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:23,197 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,198 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:23,203 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:23,299 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,299 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:23,304 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:23,400 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,400 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2023-09-13 21:32:23,405 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:23,498 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,498 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2023-09-13 21:32:23,503 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:23,600 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,600 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:32:23,606 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 3)
+2023-09-13 21:32:23,701 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,701 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2023-09-13 21:32:23,707 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:23,803 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,803 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:23,808 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:23,903 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:23,903 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2023-09-13 21:32:23,909 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:24,003 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,003 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:24,009 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:24,105 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,105 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2023-09-13 21:32:24,111 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:24,205 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,205 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2023-09-13 21:32:24,211 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:24,306 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,307 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT']
+2023-09-13 21:32:24,312 [coin_collector_agent_code] DEBUG: Suitable target found at (3, 1)
+2023-09-13 21:32:24,406 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,406 [coin_collector_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2023-09-13 21:32:24,412 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 2)
+2023-09-13 21:32:24,506 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,507 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:24,512 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 13)
+2023-09-13 21:32:24,607 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,608 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2023-09-13 21:32:24,613 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 13)
+2023-09-13 21:32:24,705 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,705 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:24,709 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 13)
+2023-09-13 21:32:24,809 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,809 [coin_collector_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:24,815 [coin_collector_agent_code] DEBUG: Suitable target found at (1, 13)
+2023-09-13 21:32:24,909 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:24,909 [coin_collector_agent_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:24,915 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,010 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,011 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:25,017 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,110 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,110 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:25,116 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,212 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,212 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:25,217 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,313 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,313 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:25,318 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,413 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,413 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2023-09-13 21:32:25,419 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,514 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,514 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2023-09-13 21:32:25,520 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)
+2023-09-13 21:32:25,615 [coin_collector_agent_code] INFO: Picking action according to rule set
+2023-09-13 21:32:25,615 [coin_collector_agent_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN']
+2023-09-13 21:32:25,621 [coin_collector_agent_code] DEBUG: Suitable target found at (7, 7)

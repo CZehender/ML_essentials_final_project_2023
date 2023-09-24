@@ -1,2 +1,0 @@
-Callback with multinomial and learning on individual actions
-Need to install keybords first

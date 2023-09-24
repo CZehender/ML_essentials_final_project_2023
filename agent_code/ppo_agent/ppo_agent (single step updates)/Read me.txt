@@ -1,0 +1,2 @@
+Callback with torch.argmax and learning on individual actions (single step updates)
+Need to install keybords first

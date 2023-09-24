@@ -1,9 +1,0 @@
-Game 1, Game Loss -4274625.0, Mean Loss -4274625.0, Actions 5, Mean reward 422.5, Final reward 0.5,  Reward 422.5, Record 422.5
-Game 2, Game Loss -235558416.0, Mean Loss -119916520.0, Actions 5, Mean reward 411.25, Final reward 0.0,  Reward 400.0, Record 422.5
-Game 3, Game Loss -2714621696.0, Mean Loss -984818240.0, Actions 5, Mean reward 415.0, Final reward 0.5,  Reward 422.5, Record 422.5
-Game 4, Game Loss -21705230336.0, Mean Loss -6164921344.0, Actions 5, Mean reward 411.25, Final reward 0.0,  Reward 400.0, Record 422.5
-Game 5, Game Loss -69894963200.0, Mean Loss -18910930944.0, Actions 5, Mean reward 417.5, Final reward 0.5,  Reward 442.5, Record 442.5
-Game 6, Game Loss -222649630720.0, Mean Loss -52867379200.0, Actions 6, Mean reward 431.25, Final reward 0.0,  Reward 500.0, Record 500.0
-Game 7, Game Loss -544982695936.0, Mean Loss -123169562624.0, Actions 5, Mean reward 426.7857142857143, Final reward 0.0,  Reward 400.0, Record 500.0
-Game 8, Game Loss -1158961037312.0, Mean Loss -252643508224.0, Actions 5, Mean reward 428.75, Final reward 0.5,  Reward 442.5, Record 500.0
-Game 9, Game Loss -2073701253120.0, Mean Loss -454983254016.0, Actions 5, Mean reward 432.5, Final reward 0.5,  Reward 462.5, Record 500.0

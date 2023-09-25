@@ -10,7 +10,7 @@ import torch.nn.functional as F
 ACTIONS = ['UP', 'RIGHT', 'DOWN', 'LEFT', 'BOMB', 'WAIT']
 Running_model="Coin"
 random_prob = 0.65
-random_vec=[0.2, 0.2, 0.2, 0.2, 0.2, 0.0]
+random_vec=[0.18, 0.18, 0.18, 0.18, 0.18, 0.1]
 
 def setup(self):
     """

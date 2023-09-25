@@ -25,6 +25,7 @@ Model_Name = "Coin"
 Batch_Size = 16
 last_entries=400
 normalization_length=250
+scaling_factor=1
 '''
 def tensor_info(tensor_list):
     num_tensors = len(tensor_list)
@@ -82,6 +83,7 @@ class SimpleNet(nn.Module):
 
 
 def train(self, mini_sample):
+    global scaling_factor
     #adapt the reward normalization to the mean and stabw of the last 
     mean=np.mean(np.array(self.normalizer))
     std=np.std(np.array(self.normalizer))
@@ -102,7 +104,7 @@ def train(self, mini_sample):
     entropy_loss_list=[]
     
     for old_state, action, reward, new_state in zip(old_states, actions, rewards, new_states):
-        norm_reward= (reward-mean)/(std+0.000000001)
+        norm_reward= (reward-mean)/((std+0.000000001)*scaling_factor)
         #print("norm_reward: ", norm_reward)
         action_probs, value = self.model(old_state)
         #print("value: ", value)

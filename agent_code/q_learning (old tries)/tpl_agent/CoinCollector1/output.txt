@@ -1,0 +1,94 @@
+Game 1, Reward 6.199999999999996, Record 6.199999999999996
+Game 2, Reward 13.799999999999997, Record 13.799999999999997
+Game 3, Reward -29.200000000000003, Record 13.799999999999997
+Game 4, Reward 15.0, Record 15.0
+Game 5, Reward -38.2, Record 15.0
+Game 6, Reward 2.0, Record 15.0
+Game 7, Reward 9.2, Record 15.0
+Game 8, Reward -28.6, Record 15.0
+Game 9, Reward -36.80000000000001, Record 15.0
+Game 10, Reward -22.400000000000006, Record 15.0
+Game 1, Reward -25.6, Record 0
+Game 2, Reward 17.6, Record 17.6
+Game 3, Reward -14.0, Record 17.6
+Game 4, Reward -16.599999999999994, Record 17.6
+Game 5, Reward 19.2, Record 19.2
+Game 6, Reward -7.0, Record 19.2
+Game 7, Reward 7.600000000000001, Record 19.2
+Game 8, Reward 12.8, Record 19.2
+Game 9, Reward -47.6, Record 19.2
+Game 10, Reward 8.799999999999997, Record 19.2
+Game 1, Final reward -30.6, Action Counter 53, plot_mean_rewards[],  Reward -0.6000000000000014, Record 0
+Game 2, Final reward -29.8, Action Counter 49, plot_mean_rewards[-0.6000000000000014],  Reward 0.1999999999999993, Record 0.1999999999999993
+Game 3, Final reward -22.2, Action Counter 11, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107],  Reward 7.800000000000001, Record 7.800000000000001
+Game 4, Final reward -26.4, Action Counter 32, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663],  Reward 3.6000000000000014, Record 7.800000000000001
+Game 5, Final reward -43.8, Action Counter 119, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663, 2.75],  Reward -3.799999999999997, Record 7.800000000000001
+Game 6, Final reward -22.4, Action Counter 12, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663, 2.75, 1.4400000000000006],  Reward -2.3999999999999986, Record 7.800000000000001
+Game 7, Final reward -70.2, Action Counter 251, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663, 2.75, 1.4400000000000006, 0.8000000000000007],  Reward -60.2, Record 7.800000000000001
+Game 8, Final reward -28.4, Action Counter 42, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663, 2.75, 1.4400000000000006, 0.8000000000000007, -7.914285714285714],  Reward -8.399999999999999, Record 7.800000000000001
+Game 9, Final reward -23.8, Action Counter 19, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663, 2.75, 1.4400000000000006, 0.8000000000000007, -7.914285714285714, -7.975],  Reward -13.8, Record 7.800000000000001
+Game 10, Final reward -68.4, Action Counter 242, plot_mean_rewards[-0.6000000000000014, -0.20000000000000107, 2.4666666666666663, 2.75, 1.4400000000000006, 0.8000000000000007, -7.914285714285714, -7.975, -8.622222222222222],  Reward -58.400000000000006, Record 7.800000000000001
+Game 1, Final reward -52.4, Action Counter 162, plot_mean_rewards-22.4,  Reward -22.4, Record 0
+Game 2, Final reward -84.60000000000001, Action Counter 323, plot_mean_rewards-33.5,  Reward -44.60000000000001, Record 0
+Game 3, Final reward -24.2, Action Counter 21, plot_mean_rewards-17.066666666666666,  Reward 15.8, Record 15.8
+Game 4, Final reward -42.6, Action Counter 113, plot_mean_rewards-23.450000000000003,  Reward -42.6, Record 15.8
+Game 5, Final reward -60.400000000000006, Action Counter 202, plot_mean_rewards-26.840000000000003,  Reward -40.400000000000006, Record 15.8
+Game 6, Final reward -22.2, Action Counter 11, plot_mean_rewards-26.066666666666666,  Reward -22.2, Record 15.8
+Game 7, Final reward -34.2, Action Counter 71, plot_mean_rewards-20.08571428571429,  Reward 15.799999999999997, Record 15.8
+Game 8, Final reward -21.2, Action Counter 6, plot_mean_rewards-20.225,  Reward -21.2, Record 15.8
+Game 9, Final reward -40.0, Action Counter 100, plot_mean_rewards-19.08888888888889,  Reward -10.0, Record 15.8
+Game 10, Final reward -45.400000000000006, Action Counter 127, plot_mean_rewards-13.720000000000002,  Reward 34.599999999999994, Record 34.599999999999994
+Game 1, Final reward -21.2, Action Counter 6, plot_mean_rewards-11.2,  Reward -11.2, Record 0
+Game 2, Final reward -25.6, Action Counter 28, plot_mean_rewards-18.4,  Reward -25.6, Record 0
+Game 3, Final reward -25.8, Action Counter 29, plot_mean_rewards-17.53333333333333,  Reward -15.8, Record 0
+Game 4, Final reward -48.400000000000006, Action Counter 142, plot_mean_rewards-20.25,  Reward -28.400000000000006, Record 0
+Game 5, Final reward -29.0, Action Counter 45, plot_mean_rewards-20.0,  Reward -19.0, Record 0
+Game 6, Final reward -34.4, Action Counter 72, plot_mean_rewards-17.400000000000002,  Reward -4.399999999999999, Record 0
+Game 7, Final reward -26.4, Action Counter 32, plot_mean_rewards-17.25714285714286,  Reward -16.4, Record 0
+Game 8, Final reward -72.6, Action Counter 263, plot_mean_rewards-22.925,  Reward -62.599999999999994, Record 0
+Game 9, Final reward -75.0, Action Counter 275, plot_mean_rewards-24.266666666666666,  Reward -35.0, Record 0
+Game 10, Final reward -21.2, Action Counter 6, plot_mean_rewards-21.96,  Reward -1.1999999999999993, Record 0
+Game 1, Final reward -21.0, Action Counter 5, plot_mean_rewards-21.0,  Reward -21.0, Record 0
+Game 2, Final reward -36.400000000000006, Action Counter 82, plot_mean_rewards-23.700000000000003,  Reward -26.400000000000006, Record 0
+Game 3, Final reward -47.400000000000006, Action Counter 137, plot_mean_rewards-28.26666666666667,  Reward -37.400000000000006, Record 0
+Game 4, Final reward -52.0, Action Counter 160, plot_mean_rewards-29.200000000000003,  Reward -32.0, Record 0
+Game 5, Final reward -34.4, Action Counter 72, plot_mean_rewards-30.240000000000002,  Reward -34.4, Record 0
+Game 6, Final reward -61.0, Action Counter 205, plot_mean_rewards-28.700000000000003,  Reward -21.0, Record 0
+Game 7, Final reward -21.6, Action Counter 8, plot_mean_rewards-27.685714285714287,  Reward -21.6, Record 0
+Game 8, Final reward -31.0, Action Counter 55, plot_mean_rewards-25.6,  Reward -11.0, Record 0
+Game 9, Final reward -43.6, Action Counter 118, plot_mean_rewards-20.933333333333334,  Reward 16.4, Record 16.4
+Game 10, Final reward -57.800000000000004, Action Counter 189, plot_mean_rewards-21.62,  Reward -27.800000000000004, Record 16.4
+Game 1, Final reward -21.4, Action Counter 7, plot_mean_rewards-21.4,  Reward -21.4, Record 0
+Game 2, Final reward -45.400000000000006, Action Counter 127, plot_mean_rewards-23.400000000000002,  Reward -25.400000000000006, Record 0
+Game 3, Final reward -25.0, Action Counter 25, plot_mean_rewards-0.6000000000000014,  Reward 45.0, Record 45.0
+Game 4, Final reward -23.6, Action Counter 18, plot_mean_rewards-3.8500000000000014,  Reward -13.600000000000001, Record 45.0
+Game 5, Final reward -24.0, Action Counter 20, plot_mean_rewards-3.8800000000000012,  Reward -4.0, Record 45.0
+Game 6, Final reward -28.200000000000003, Action Counter 41, plot_mean_rewards0.3999999999999986,  Reward 21.799999999999997, Record 45.0
+Game 7, Final reward -29.8, Action Counter 49, plot_mean_rewards0.3714285714285701,  Reward 0.1999999999999993, Record 45.0
+Game 8, Final reward -38.6, Action Counter 93, plot_mean_rewards2.9999999999999987,  Reward 21.4, Record 45.0
+Game 9, Final reward -25.4, Action Counter 27, plot_mean_rewards6.51111111111111,  Reward 34.6, Record 45.0
+Game 10, Final reward -77.4, Action Counter 287, plot_mean_rewards-0.8800000000000011,  Reward -67.4, Record 45.0
+Game 11, Final reward -24.6, Action Counter 23, plot_mean_rewards1.509090909090908,  Reward 25.4, Record 45.0
+Game 12, Final reward -34.0, Action Counter 70, plot_mean_rewards-1.450000000000001,  Reward -34.0, Record 45.0
+Game 13, Final reward -97.2, Action Counter 386, plot_mean_rewards-5.73846153846154,  Reward -57.2, Record 45.0
+Game 14, Final reward -37.8, Action Counter 89, plot_mean_rewards-7.314285714285716,  Reward -27.799999999999997, Record 45.0
+Game 15, Final reward -42.8, Action Counter 114, plot_mean_rewards-9.013333333333334,  Reward -32.8, Record 45.0
+Game 1, Final reward -23.8, Action Counter 19, plot_mean_rewards-3.8000000000000007,  Reward -3.8000000000000007, Record 0
+Game 2, Final reward -61.2, Action Counter 206, plot_mean_rewards-32.5,  Reward -61.2, Record 0
+Game 3, Final reward -28.4, Action Counter 42, plot_mean_rewards-27.8,  Reward -18.4, Record 0
+Game 4, Final reward -14.2, Action Counter 21, plot_mean_rewards-11.900000000000002,  Reward 35.8, Record 35.8
+Game 5, Final reward -38.400000000000006, Action Counter 92, plot_mean_rewards-13.200000000000003,  Reward -18.400000000000006, Record 35.8
+Game 6, Final reward -21.6, Action Counter 8, plot_mean_rewards-12.933333333333337,  Reward -11.600000000000001, Record 35.8
+Game 7, Final reward -25.4, Action Counter 27, plot_mean_rewards-9.000000000000004,  Reward 14.600000000000001, Record 35.8
+Game 8, Final reward -25.2, Action Counter 26, plot_mean_rewards-7.275000000000002,  Reward 4.800000000000001, Record 35.8
+Game 9, Final reward -24.2, Action Counter 21, plot_mean_rewards-4.711111111111113,  Reward 15.8, Record 35.8
+Game 10, Final reward -25.0, Action Counter 25, plot_mean_rewards-5.740000000000002,  Reward -15.0, Record 35.8
+Game 1, Final reward -56.800000000000004, Action Counter 184, plot_mean_rewards-26.800000000000004,  Reward -26.800000000000004, Record 0
+Game 2, Final reward -25.8, Action Counter 29, plot_mean_rewards-6.3000000000000025,  Reward 14.2, Record 14.2
+Game 3, Final reward -30.200000000000003, Action Counter 51, plot_mean_rewards-0.9333333333333359,  Reward 9.799999999999997, Record 14.2
+Game 1, Final reward -26.6, Action Counter 33, plot_mean_rewards-26.6,  Reward -26.6, Record 0
+Game 2, Final reward -46.6, Action Counter 133, plot_mean_rewards-31.6,  Reward -36.6, Record 0
+Game 3, Final reward -33.4, Action Counter 67, plot_mean_rewards-25.53333333333333,  Reward -13.399999999999999, Record 0
+Game 1, Final reward -36.0, Action Counter 80, plot_mean_rewards14.0,  Reward 14.0, Record 14.0
+Game 2, Final reward -41.6, Action Counter 108, plot_mean_rewards-8.8,  Reward -31.6, Record 14.0
+Game 3, Final reward -26.0, Action Counter 30, plot_mean_rewards-11.200000000000001,  Reward -16.0, Record 14.0

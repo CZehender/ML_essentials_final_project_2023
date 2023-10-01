@@ -1,0 +1,1550 @@
+2023-08-11 00:25:25,540 [tpl_agent_code] INFO: Setting up model from scratch.
+2023-08-11 00:25:25,564 [tpl_agent_code] DEBUG: Self setup done
+2023-08-11 00:25:27,683 [tpl_agent_code] INFO: Awarded 10 for events INVALID_ACTION, COIN_COLLECTED
+2023-08-11 00:25:27,691 [tpl_agent_code] INFO: Awarded 10 for events INVALID_ACTION, COIN_COLLECTED
+2023-08-11 00:25:27,697 [tpl_agent_code] INFO: Awarded 10 for events INVALID_ACTION, COIN_COLLECTED
+2023-08-11 00:25:27,697 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:28,005 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:28,947 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:28,948 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION', 'COIN_COLLECTED' in step 1
+2023-08-11 00:25:29,047 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,048 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,058 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,060 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,066 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,090 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,091 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 2
+2023-08-11 00:25:29,144 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,146 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,148 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,149 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,163 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,190 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,191 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 3
+2023-08-11 00:25:29,231 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,247 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,249 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,259 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,264 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,293 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,294 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 4
+2023-08-11 00:25:29,349 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED
+2023-08-11 00:25:29,360 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED
+2023-08-11 00:25:29,363 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED
+2023-08-11 00:25:29,364 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,374 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,397 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,398 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 5
+2023-08-11 00:25:29,474 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED
+2023-08-11 00:25:29,476 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED
+2023-08-11 00:25:29,478 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED
+2023-08-11 00:25:29,479 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,492 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,510 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,511 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 6
+2023-08-11 00:25:29,563 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,564 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,566 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,571 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,578 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,599 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,602 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 7
+2023-08-11 00:25:29,643 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,643 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,645 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,645 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,648 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,664 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,665 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 8
+2023-08-11 00:25:29,709 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,711 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,713 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,714 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,727 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,747 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,748 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 9
+2023-08-11 00:25:29,759 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:29,765 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:29,766 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:29,772 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:29,773 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,776 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,792 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,792 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2023-08-11 00:25:29,815 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,822 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,828 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,831 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,848 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,867 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,869 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 11
+2023-08-11 00:25:29,897 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,898 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,900 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,903 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:29,915 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:29,944 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:29,945 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 12
+2023-08-11 00:25:29,966 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,979 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:29,999 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,009 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,013 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,029 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,029 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 13
+2023-08-11 00:25:30,064 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,066 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,083 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,091 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,098 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,121 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,122 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 14
+2023-08-11 00:25:30,148 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,149 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,161 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,163 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,191 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,213 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,214 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 15
+2023-08-11 00:25:30,264 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,266 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,281 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:30,282 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,293 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,310 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,311 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 16
+2023-08-11 00:25:30,331 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,331 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,332 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,335 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,364 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,387 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,390 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2023-08-11 00:25:30,431 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,432 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,449 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,452 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,461 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,482 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,483 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 18
+2023-08-11 00:25:30,548 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,557 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,560 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,561 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,574 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,601 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,605 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2023-08-11 00:25:30,663 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,664 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,666 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,680 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,696 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,722 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,723 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2023-08-11 00:25:30,845 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,846 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,847 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,849 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,858 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,875 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,876 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 21
+2023-08-11 00:25:30,915 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,916 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,926 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,930 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:30,946 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:30,971 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:30,972 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 22
+2023-08-11 00:25:30,996 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,997 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:30,999 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,013 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,041 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,058 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,059 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 23
+2023-08-11 00:25:31,124 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,125 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,128 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,129 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,133 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,155 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,156 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2023-08-11 00:25:31,181 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,182 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,195 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,197 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,215 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,230 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,230 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2023-08-11 00:25:31,233 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:31,241 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:31,241 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:31,242 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:31,243 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,246 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,257 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,258 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 26
+2023-08-11 00:25:31,284 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,294 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,298 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,299 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,324 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,332 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,335 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2023-08-11 00:25:31,339 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:31,343 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:31,343 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:31,344 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:31,345 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,349 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,364 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,364 [tpl_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 28
+2023-08-11 00:25:31,397 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,399 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,414 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,419 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,428 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,448 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,449 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 29
+2023-08-11 00:25:31,489 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,491 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,493 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,494 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,498 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,527 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,528 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 30
+2023-08-11 00:25:31,555 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,561 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,563 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,564 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,580 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,595 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,596 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 31
+2023-08-11 00:25:31,599 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:31,605 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:31,606 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:31,607 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:31,608 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,610 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,621 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,622 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 32
+2023-08-11 00:25:31,652 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,657 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,659 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,661 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,665 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,695 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,696 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 33
+2023-08-11 00:25:31,729 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,730 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,732 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,735 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,762 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,776 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,777 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 34
+2023-08-11 00:25:31,830 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,835 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,842 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,843 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,848 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,861 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,862 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 35
+2023-08-11 00:25:31,882 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,884 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,896 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,898 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,914 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:31,928 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:31,929 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 36
+2023-08-11 00:25:31,949 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,951 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,963 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:31,964 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:31,992 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,007 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,008 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 37
+2023-08-11 00:25:32,032 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,044 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,049 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,063 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,075 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,092 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,093 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 38
+2023-08-11 00:25:32,113 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,113 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,114 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,116 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,130 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,165 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,165 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 39
+2023-08-11 00:25:32,242 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,244 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,246 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,249 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,260 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,283 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,287 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 40
+2023-08-11 00:25:32,347 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,349 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,365 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,366 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,379 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,397 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,398 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 41
+2023-08-11 00:25:32,443 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,446 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,460 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,461 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,473 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,495 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,498 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 42
+2023-08-11 00:25:32,505 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:32,512 [tpl_agent_code] INFO: Awarded 10 for events MOVED_DOWN, COIN_COLLECTED
+2023-08-11 00:25:32,513 [tpl_agent_code] INFO: Awarded 10 for events MOVED_DOWN, COIN_COLLECTED
+2023-08-11 00:25:32,515 [tpl_agent_code] INFO: Awarded 10 for events MOVED_DOWN, COIN_COLLECTED
+2023-08-11 00:25:32,515 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,523 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,543 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,543 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN', 'COIN_COLLECTED' in step 43
+2023-08-11 00:25:32,580 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:32,605 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:32,610 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:32,611 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,630 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,678 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,679 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 44
+2023-08-11 00:25:32,728 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,729 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,731 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,733 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,759 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,774 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,775 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 45
+2023-08-11 00:25:32,808 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,810 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,812 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,813 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,844 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,862 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,864 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 46
+2023-08-11 00:25:32,895 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,897 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,912 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,914 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,925 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:32,940 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:32,941 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 47
+2023-08-11 00:25:32,960 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,961 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,962 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:32,962 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:32,965 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,014 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,015 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 48
+2023-08-11 00:25:33,053 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,059 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,061 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,062 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,068 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,098 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,099 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 49
+2023-08-11 00:25:33,132 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,137 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,155 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,158 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,164 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,182 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,185 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 50
+2023-08-11 00:25:33,223 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,224 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,227 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,229 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,248 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,276 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,277 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 51
+2023-08-11 00:25:33,314 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,315 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,330 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,332 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,361 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,382 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,384 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 52
+2023-08-11 00:25:33,428 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,429 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,432 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,446 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,460 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,478 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,479 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 53
+2023-08-11 00:25:33,510 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,511 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,513 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,514 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,532 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,547 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,548 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 54
+2023-08-11 00:25:33,580 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,581 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,583 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,585 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,596 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,626 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,627 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 55
+2023-08-11 00:25:33,632 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:33,639 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:33,640 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:33,641 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:33,641 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,644 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,655 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,655 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 56
+2023-08-11 00:25:33,682 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,685 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,690 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,692 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,695 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,731 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,732 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 57
+2023-08-11 00:25:33,765 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,772 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,780 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,782 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,809 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,830 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,831 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 58
+2023-08-11 00:25:33,866 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,874 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,879 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,881 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,906 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:33,924 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:33,925 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 59
+2023-08-11 00:25:33,964 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,965 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,977 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:33,979 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:33,995 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,016 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,018 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 60
+2023-08-11 00:25:34,065 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,075 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,077 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,078 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,082 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,109 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,110 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 61
+2023-08-11 00:25:34,147 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,149 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,165 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,168 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,179 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,204 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,206 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 62
+2023-08-11 00:25:34,230 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,231 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,232 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,235 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,266 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,289 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,290 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 63
+2023-08-11 00:25:34,314 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,315 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,330 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,332 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,358 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,370 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,371 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 64
+2023-08-11 00:25:34,397 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,397 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,402 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,415 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,425 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,441 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,442 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 65
+2023-08-11 00:25:34,447 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:34,462 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,463 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,465 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,470 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,475 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,490 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,491 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 66
+2023-08-11 00:25:34,528 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,530 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,532 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,548 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,560 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,579 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,580 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 67
+2023-08-11 00:25:34,588 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:34,594 [tpl_agent_code] INFO: Awarded 10 for events MOVED_RIGHT, COIN_COLLECTED
+2023-08-11 00:25:34,595 [tpl_agent_code] INFO: Awarded 10 for events MOVED_RIGHT, COIN_COLLECTED
+2023-08-11 00:25:34,597 [tpl_agent_code] INFO: Awarded 10 for events MOVED_RIGHT, COIN_COLLECTED
+2023-08-11 00:25:34,598 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,604 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,616 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,618 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT', 'COIN_COLLECTED' in step 68
+2023-08-11 00:25:34,648 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,648 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,651 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,657 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,662 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,684 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,689 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 69
+2023-08-11 00:25:34,714 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,715 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,728 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,729 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,732 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,777 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,779 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 70
+2023-08-11 00:25:34,832 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,841 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,843 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,844 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,847 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,863 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,864 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 71
+2023-08-11 00:25:34,899 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,899 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,913 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,914 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,924 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:34,933 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:34,934 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 72
+2023-08-11 00:25:34,961 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,962 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,963 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:34,964 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:34,966 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,006 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,007 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 73
+2023-08-11 00:25:35,029 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,030 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,031 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,032 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:35,048 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,077 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,078 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 74
+2023-08-11 00:25:35,103 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,111 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,131 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,136 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:35,147 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,166 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,171 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 75
+2023-08-11 00:25:35,197 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:35,198 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:35,199 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:35,204 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:35,215 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,250 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,251 [tpl_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 76
+2023-08-11 00:25:35,282 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,282 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,285 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,292 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:35,297 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,325 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,326 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 77
+2023-08-11 00:25:35,345 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,345 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,346 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,347 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:35,354 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,407 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,408 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 78
+2023-08-11 00:25:35,443 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,446 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,449 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:35,464 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:35,476 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,491 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:35,492 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 79
+2023-08-11 00:25:35,579 [tpl_agent_code] INFO: Awarded -20 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-11 00:25:35,677 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:35,746 [tpl_agent_code] DEBUG: Model trained for entire game
+2023-08-11 00:25:35,748 [tpl_agent_code] INFO: Everything set back for new game.
+2023-08-11 00:25:35,749 [tpl_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-11 00:25:36,047 [tpl_agent_code] INFO: Model saved to CoinCollector1.pt
+2023-08-11 00:25:36,079 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,080 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,081 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,081 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,097 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,113 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,113 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 1
+2023-08-11 00:25:36,147 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,148 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,149 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,156 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,164 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,195 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,196 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 2
+2023-08-11 00:25:36,231 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,232 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,242 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,243 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,253 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,275 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,276 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 3
+2023-08-11 00:25:36,294 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,294 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,295 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,296 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,307 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,335 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,341 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 4
+2023-08-11 00:25:36,398 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,399 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,407 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,408 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,412 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,432 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,435 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 5
+2023-08-11 00:25:36,480 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,481 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,482 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,495 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,508 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,523 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,524 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 6
+2023-08-11 00:25:36,559 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,560 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,562 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,562 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,565 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,594 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,595 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 7
+2023-08-11 00:25:36,616 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,627 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,629 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:36,635 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,676 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,698 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,699 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 8
+2023-08-11 00:25:36,747 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,774 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,777 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,778 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,794 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,821 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,822 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 9
+2023-08-11 00:25:36,863 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,864 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,877 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,879 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:36,897 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:36,927 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:36,928 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 10
+2023-08-11 00:25:36,995 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,996 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:36,998 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,008 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,015 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,044 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,045 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 11
+2023-08-11 00:25:37,126 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,127 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,130 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,132 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,155 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,174 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,176 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 12
+2023-08-11 00:25:37,227 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:37,228 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:37,230 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:37,231 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,249 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,278 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,279 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 13
+2023-08-11 00:25:37,324 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:37,325 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:37,331 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:37,348 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,361 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,380 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,381 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 14
+2023-08-11 00:25:37,391 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:37,399 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,401 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,405 [tpl_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-11 00:25:37,406 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,411 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,427 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,428 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 15
+2023-08-11 00:25:37,478 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,479 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,481 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,482 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,497 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,514 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,514 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 16
+2023-08-11 00:25:37,551 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,554 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,557 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,558 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,563 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,597 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,598 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2023-08-11 00:25:37,647 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,648 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,666 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,676 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,680 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,702 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,703 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 18
+2023-08-11 00:25:37,765 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,774 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,778 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,780 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,803 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,824 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,826 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2023-08-11 00:25:37,875 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,876 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,878 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:37,881 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:37,962 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:37,993 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:37,994 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2023-08-11 00:25:37,999 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:38,011 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:38,012 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:38,013 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:38,015 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,042 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,059 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,060 [tpl_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 21
+2023-08-11 00:25:38,097 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,098 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,102 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,110 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,115 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,146 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,147 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 22
+2023-08-11 00:25:38,179 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,180 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,183 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,188 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,213 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,242 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,243 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 23
+2023-08-11 00:25:38,314 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,316 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,327 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,328 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,338 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,359 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,361 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2023-08-11 00:25:38,416 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,420 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,425 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,427 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,448 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,490 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,491 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2023-08-11 00:25:38,563 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,573 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,575 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,576 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,581 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,598 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,599 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 26
+2023-08-11 00:25:38,676 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,678 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,681 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,682 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,692 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,707 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,709 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2023-08-11 00:25:38,751 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,762 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,765 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,781 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,796 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,814 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,815 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 28
+2023-08-11 00:25:38,849 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,852 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,864 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:38,865 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:38,895 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:38,939 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:38,940 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 29
+2023-08-11 00:25:39,029 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,031 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,045 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,047 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,058 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,078 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,078 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 30
+2023-08-11 00:25:39,112 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,113 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,121 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,133 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,143 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,159 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,160 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 31
+2023-08-11 00:25:39,163 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:39,171 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,171 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,172 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,173 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,175 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,183 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,184 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 32
+2023-08-11 00:25:39,214 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,214 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,219 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,223 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,229 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,259 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,260 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 33
+2023-08-11 00:25:39,292 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,295 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,298 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,305 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,315 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,330 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,331 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 34
+2023-08-11 00:25:39,362 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,363 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,364 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,365 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,378 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,396 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,396 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 35
+2023-08-11 00:25:39,429 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,430 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,434 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,448 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,458 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,470 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,473 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 36
+2023-08-11 00:25:39,495 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,497 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,498 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,504 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,531 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,546 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,548 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 37
+2023-08-11 00:25:39,595 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,596 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,598 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,613 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,624 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,639 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,639 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 38
+2023-08-11 00:25:39,674 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,674 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,676 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,677 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,681 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,714 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,715 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 39
+2023-08-11 00:25:39,746 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,748 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,761 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,763 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,793 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,823 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,824 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 40
+2023-08-11 00:25:39,865 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,880 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,882 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,891 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,896 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,913 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,914 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 41
+2023-08-11 00:25:39,949 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,958 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,961 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:39,962 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:39,966 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:39,995 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:39,996 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 42
+2023-08-11 00:25:40,043 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,044 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,045 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,047 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,063 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,096 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,098 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 43
+2023-08-11 00:25:40,142 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,143 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,145 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,147 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,168 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,194 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,195 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 44
+2023-08-11 00:25:40,245 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,246 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,249 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,264 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,277 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,295 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,295 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 45
+2023-08-11 00:25:40,332 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,348 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,358 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,360 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,364 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,381 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,382 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 46
+2023-08-11 00:25:40,413 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,414 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,415 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,424 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,449 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,475 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,476 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 47
+2023-08-11 00:25:40,513 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,514 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,515 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,516 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,530 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,559 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,560 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 48
+2023-08-11 00:25:40,595 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,596 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,598 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,613 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,626 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,643 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,644 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 49
+2023-08-11 00:25:40,666 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,671 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,678 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,680 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,697 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,712 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,712 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 50
+2023-08-11 00:25:40,715 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:40,722 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,723 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,724 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,726 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,731 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,743 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,743 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 51
+2023-08-11 00:25:40,762 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,763 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,765 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,766 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,782 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,824 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,825 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 52
+2023-08-11 00:25:40,862 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,863 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,865 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,867 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,881 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,914 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,915 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 53
+2023-08-11 00:25:40,949 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,951 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,957 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:40,959 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:40,965 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:40,998 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:40,999 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 54
+2023-08-11 00:25:41,030 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,031 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,032 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,033 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,045 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,075 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,076 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 55
+2023-08-11 00:25:41,098 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,099 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,110 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,111 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,114 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,163 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,164 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 56
+2023-08-11 00:25:41,195 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,196 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,198 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,199 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,214 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,255 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,256 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 57
+2023-08-11 00:25:41,281 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,283 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,289 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,290 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,296 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,325 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,326 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 58
+2023-08-11 00:25:41,346 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,347 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,348 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,351 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,364 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,396 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,397 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 59
+2023-08-11 00:25:41,431 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,442 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,445 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,446 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,460 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,479 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,480 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 60
+2023-08-11 00:25:41,510 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,511 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,513 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,515 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,542 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,557 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,558 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 61
+2023-08-11 00:25:41,576 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,578 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,579 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,580 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,595 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,626 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,627 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 62
+2023-08-11 00:25:41,648 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,648 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,655 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,661 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,679 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,697 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,698 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 63
+2023-08-11 00:25:41,743 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,744 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,745 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,746 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,765 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,791 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,792 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 64
+2023-08-11 00:25:41,830 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,831 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,858 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,859 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,864 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,882 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,885 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 65
+2023-08-11 00:25:41,926 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,928 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,932 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,952 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:41,964 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:41,987 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:41,988 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 66
+2023-08-11 00:25:41,993 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:41,997 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:41,998 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,001 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,003 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,008 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,024 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,025 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 67
+2023-08-11 00:25:42,078 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,079 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,081 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,082 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,111 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,130 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,131 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 68
+2023-08-11 00:25:42,193 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,194 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,197 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,198 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,211 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,226 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,227 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 69
+2023-08-11 00:25:42,265 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,280 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,282 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,292 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,296 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,313 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,314 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 70
+2023-08-11 00:25:42,347 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,348 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,358 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,361 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,372 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,395 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,396 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 71
+2023-08-11 00:25:42,430 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,431 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,434 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,436 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,445 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,468 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,473 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 72
+2023-08-11 00:25:42,476 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:42,479 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:42,480 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:42,481 [tpl_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-11 00:25:42,482 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,488 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,503 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,504 [tpl_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 73
+2023-08-11 00:25:42,546 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,548 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,551 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,557 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,562 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,589 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,590 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 74
+2023-08-11 00:25:42,646 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,648 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,658 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,659 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,664 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,682 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,685 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 75
+2023-08-11 00:25:42,726 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,728 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,731 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,732 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,759 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,782 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,783 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 76
+2023-08-11 00:25:42,834 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,839 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,844 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,845 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,857 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,872 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,873 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 77
+2023-08-11 00:25:42,878 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:42,882 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,882 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,884 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,887 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,892 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,905 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,906 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 78
+2023-08-11 00:25:42,927 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,928 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,929 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:42,929 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:42,932 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:42,976 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:42,977 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 79
+2023-08-11 00:25:43,013 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,013 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,015 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,015 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,030 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,051 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,056 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 80
+2023-08-11 00:25:43,079 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,080 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,081 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,083 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,108 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,128 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,129 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 81
+2023-08-11 00:25:43,172 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,180 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,182 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,184 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,191 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,205 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,206 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 82
+2023-08-11 00:25:43,230 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,231 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,235 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,245 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,274 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,292 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,293 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 83
+2023-08-11 00:25:43,329 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,330 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,331 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,331 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,346 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,381 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,382 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 84
+2023-08-11 00:25:43,505 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,510 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,513 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,514 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,523 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,545 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,546 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 85
+2023-08-11 00:25:43,583 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,592 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,595 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,596 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,613 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,644 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,645 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 86
+2023-08-11 00:25:43,694 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,695 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,697 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,712 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,727 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,744 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,745 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 87
+2023-08-11 00:25:43,796 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,815 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,826 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,828 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,839 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,855 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,856 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 88
+2023-08-11 00:25:43,861 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:43,867 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,869 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,871 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,872 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,876 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,890 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,891 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 89
+2023-08-11 00:25:43,918 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,925 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,931 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,945 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:43,955 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:43,971 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:43,973 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 90
+2023-08-11 00:25:43,996 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:43,997 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,000 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,005 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,014 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,057 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,058 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 91
+2023-08-11 00:25:44,062 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:44,071 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,072 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,074 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,075 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,079 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,092 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,093 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 92
+2023-08-11 00:25:44,120 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,126 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,130 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,131 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,149 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,174 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,175 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 93
+2023-08-11 00:25:44,212 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,214 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,216 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,228 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,241 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,255 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,255 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 94
+2023-08-11 00:25:44,277 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,278 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,280 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,280 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,297 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,326 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,327 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 95
+2023-08-11 00:25:44,332 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:44,340 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,341 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,343 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,344 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,349 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,359 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,360 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 96
+2023-08-11 00:25:44,385 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,393 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,396 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,398 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,416 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,438 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,440 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 97
+2023-08-11 00:25:44,462 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,463 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,465 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,466 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,496 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,514 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,515 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 98
+2023-08-11 00:25:44,546 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,547 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,551 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,564 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,592 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,610 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,611 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 99
+2023-08-11 00:25:44,657 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,658 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,660 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,661 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,664 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,706 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,707 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 100
+2023-08-11 00:25:44,740 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,740 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,741 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,742 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,745 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,780 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,781 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 101
+2023-08-11 00:25:44,793 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:44,798 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,799 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,803 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,805 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,809 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,820 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,821 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 102
+2023-08-11 00:25:44,825 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:44,832 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:44,833 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:44,837 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:44,839 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,842 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,855 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,856 [tpl_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 103
+2023-08-11 00:25:44,880 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,881 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,882 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,896 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,916 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:44,941 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:44,942 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 104
+2023-08-11 00:25:44,979 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,980 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,982 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:44,992 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:44,998 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,038 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,039 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 105
+2023-08-11 00:25:45,044 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:45,051 [tpl_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-11 00:25:45,054 [tpl_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-11 00:25:45,056 [tpl_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-11 00:25:45,057 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,061 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,076 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,078 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 106
+2023-08-11 00:25:45,130 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED, BOMB_EXPLODED
+2023-08-11 00:25:45,131 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED, BOMB_EXPLODED
+2023-08-11 00:25:45,141 [tpl_agent_code] INFO: Awarded 10 for events MOVED_UP, COIN_COLLECTED, BOMB_EXPLODED
+2023-08-11 00:25:45,143 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,148 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,161 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,162 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED', 'BOMB_EXPLODED' in step 107
+2023-08-11 00:25:45,173 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:45,180 [tpl_agent_code] INFO: Awarded -20 for events MOVED_DOWN, KILLED_SELF, GOT_KILLED
+2023-08-11 00:25:45,235 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,275 [tpl_agent_code] DEBUG: Model trained for entire game
+2023-08-11 00:25:45,278 [tpl_agent_code] INFO: Everything set back for new game.
+2023-08-11 00:25:45,279 [tpl_agent_code] DEBUG: Encountered event(s) 'MOVED_DOWN', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-11 00:25:45,307 [tpl_agent_code] INFO: Model saved to CoinCollector1.pt
+2023-08-11 00:25:45,376 [tpl_agent_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-08-11 00:25:45,377 [tpl_agent_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-08-11 00:25:45,380 [tpl_agent_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-08-11 00:25:45,382 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,406 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,426 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,427 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 1
+2023-08-11 00:25:45,450 [tpl_agent_code] INFO: Awarded 10 for events MOVED_DOWN, COIN_COLLECTED
+2023-08-11 00:25:45,454 [tpl_agent_code] INFO: Awarded 10 for events MOVED_DOWN, COIN_COLLECTED
+2023-08-11 00:25:45,463 [tpl_agent_code] INFO: Awarded 10 for events MOVED_DOWN, COIN_COLLECTED
+2023-08-11 00:25:45,465 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,484 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,502 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,503 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN', 'COIN_COLLECTED' in step 2
+2023-08-11 00:25:45,527 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:45,528 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:45,529 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:45,530 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,532 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,575 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,576 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 3
+2023-08-11 00:25:45,597 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:45,597 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:45,598 [tpl_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-11 00:25:45,603 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,613 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,648 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,656 [tpl_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 4
+2023-08-11 00:25:45,698 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,701 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,723 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,725 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,729 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,745 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,746 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2023-08-11 00:25:45,795 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,797 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,807 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,809 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,813 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,839 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,840 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2023-08-11 00:25:45,863 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,864 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,865 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,874 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,889 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,913 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,913 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2023-08-11 00:25:45,946 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,946 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,947 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,949 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:45,974 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:45,985 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:45,990 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2023-08-11 00:25:45,994 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:45,998 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:45,999 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,002 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,004 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,006 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,016 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,017 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 9
+2023-08-11 00:25:46,047 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,048 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,051 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,055 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,059 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,082 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,082 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2023-08-11 00:25:46,115 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,115 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,125 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,127 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,132 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,163 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,164 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2023-08-11 00:25:46,194 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,196 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,197 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,198 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,214 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,245 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,245 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2023-08-11 00:25:46,296 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,297 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,299 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,306 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,310 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,334 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,340 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 13
+2023-08-11 00:25:46,365 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,378 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,382 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,397 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,413 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,491 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,492 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2023-08-11 00:25:46,610 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,611 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,613 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,621 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,627 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,645 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,646 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 15
+2023-08-11 00:25:46,693 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,694 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,697 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,711 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,725 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,743 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,745 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 16
+2023-08-11 00:25:46,896 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,905 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,911 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:46,912 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:46,931 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:46,959 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:46,960 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2023-08-11 00:25:47,022 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,024 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,027 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,028 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,037 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,057 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,058 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 18
+2023-08-11 00:25:47,063 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:47,071 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,072 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,074 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,075 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,080 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,094 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,095 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2023-08-11 00:25:47,157 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,158 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,175 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,176 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,201 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,222 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,223 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2023-08-11 00:25:47,261 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,264 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,279 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,281 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,298 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,312 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,313 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 21
+2023-08-11 00:25:47,348 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,350 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,358 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,361 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,375 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,400 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,402 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 22
+2023-08-11 00:25:47,429 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,430 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,431 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,464 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,476 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,497 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,498 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 23
+2023-08-11 00:25:47,543 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,544 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,622 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,623 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,630 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,665 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,671 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2023-08-11 00:25:47,715 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,715 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,732 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,741 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,746 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,762 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,763 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2023-08-11 00:25:47,772 [tpl_agent_code] DEBUG: Choosing action purely at random.
+2023-08-11 00:25:47,777 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:47,779 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:47,781 [tpl_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-11 00:25:47,783 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,790 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,806 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,807 [tpl_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 26
+2023-08-11 00:25:47,828 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,829 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,831 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,834 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,846 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,878 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,879 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2023-08-11 00:25:47,913 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,914 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,923 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,926 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:47,931 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:47,965 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:47,969 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 28
+2023-08-11 00:25:47,997 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:47,998 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:48,007 [tpl_agent_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-08-11 00:25:48,009 [tpl_agent_code] DEBUG: States and targets translated to tensors.
+2023-08-11 00:25:48,014 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:48,047 [tpl_agent_code] DEBUG: Model trained for this step
+2023-08-11 00:25:48,049 [tpl_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 29
+2023-08-11 00:25:48,094 [tpl_agent_code] INFO: Awarded -20 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-11 00:25:48,198 [tpl_agent_code] DEBUG: Q value calculated.
+2023-08-11 00:25:48,296 [tpl_agent_code] DEBUG: Model trained for entire game
+2023-08-11 00:25:48,297 [tpl_agent_code] INFO: Everything set back for new game.
+2023-08-11 00:25:48,298 [tpl_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-11 00:25:48,340 [tpl_agent_code] INFO: Model saved to CoinCollector1.pt

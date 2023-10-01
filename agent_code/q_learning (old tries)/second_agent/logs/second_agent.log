@@ -1,0 +1,122 @@
+2023-08-23 04:21:54,398 [second_agent_code] INFO: Setting up model from scratch.
+2023-08-23 04:21:54,476 [second_agent_code] DEBUG: Self setup done
+2023-08-23 04:21:54,515 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:21:54,525 [second_agent_code] INFO: Awarded 12 for events INVALID_ACTION, COIN_COLLECTED
+2023-08-23 04:21:54,538 [second_agent_code] INFO: Awarded 12 for events INVALID_ACTION, COIN_COLLECTED
+2023-08-23 04:21:54,564 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:54,632 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:54,766 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:21:54,768 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:54,787 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:54,867 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:21:57,654 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:21:57,666 [second_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-23 04:21:57,669 [second_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-23 04:21:57,679 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:57,700 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:57,789 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:57,934 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:21:57,949 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:21:57,970 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:21:57,985 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:21:58,036 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:58,102 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,217 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,339 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,417 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:21:58,420 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:21:58,428 [second_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-23 04:21:58,432 [second_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-23 04:21:58,438 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:58,466 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,616 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,753 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,869 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:58,967 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:21:58,998 [second_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-23 04:21:59,000 [second_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-23 04:21:59,014 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:59,034 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:59,137 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:59,453 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:59,555 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:59,680 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:59,761 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:21:59,767 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:21:59,772 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:21:59,782 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:21:59,799 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:21:59,828 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:21:59,959 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:00,282 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:00,456 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:00,838 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,052 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,165 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:22:01,169 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:22:01,176 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:22:01,182 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:22:01,196 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:22:01,218 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,326 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,436 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,540 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,706 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,806 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:01,903 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,055 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:22:02,120 [second_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-23 04:22:02,132 [second_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-23 04:22:02,152 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:22:02,187 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,328 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,422 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,527 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,684 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,791 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:02,920 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,029 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,122 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:22:03,132 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:22:03,137 [second_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-23 04:22:03,148 [second_agent_code] INFO: Awarded 0 for events MOVED_UP
+2023-08-23 04:22:03,166 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:22:03,185 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,347 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,602 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,736 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,848 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:03,989 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:04,169 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:04,310 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:04,437 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:04,531 [second_agent_code] DEBUG: Model trained for this step
+2023-08-23 04:22:04,537 [second_agent_code] DEBUG: Choosing action purely at random.
+2023-08-23 04:22:04,549 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:22:04,605 [second_agent_code] INFO: Awarded -8 for events INVALID_ACTION
+2023-08-23 04:22:04,669 [second_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-23 04:22:04,756 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:05,011 [second_agent_code] DEBUG: Q values calculated.
+2023-08-23 04:22:05,086 [second_agent_wrapper] ERROR: 
+Traceback (most recent call last):
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agents.py", line 248, in process_event
+    event_result = getattr(module, event_name)(self.fake_self, *event_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\second_agent\train.py", line 163, in game_events_occurred
+    train(self, mini_sample)
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\second_agent\train.py", line 349, in train
+    self.optimizer.step()
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\optim\optimizer.py", line 280, in wrapper
+    out = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\optim\optimizer.py", line 33, in _use_grad
+    ret = func(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\optim\adam.py", line 141, in step
+    adam(
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\optim\adam.py", line 281, in adam
+    func(params,
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\optim\adam.py", line 344, in _single_tensor_adam
+    exp_avg.mul_(beta1).add_(grad, alpha=1 - beta1)
+    ^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

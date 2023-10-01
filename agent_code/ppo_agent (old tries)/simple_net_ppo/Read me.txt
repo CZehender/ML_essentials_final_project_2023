@@ -1,2 +1,0 @@
-Callback with torch.argmax and learning on batches and simple neural net
-Need to install keybords first

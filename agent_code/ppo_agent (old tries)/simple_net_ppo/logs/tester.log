@@ -1,0 +1,1179 @@
+2023-09-20 06:20:05,560 [tester_code] INFO: Loading model from saved state.
+2023-09-20 06:20:05,747 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:05,760 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:05,775 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:05,799 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:05,802 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:05,812 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,317 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:06,321 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:06,334 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:06,349 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,359 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,364 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,378 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,379 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:06,383 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:06,396 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:06,412 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,421 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,428 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,447 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,465 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:06,477 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:06,492 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,502 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,510 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,535 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,553 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:06,565 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:06,580 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,589 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,599 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,629 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,649 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:06,660 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:06,661 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:06,672 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,696 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,708 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,744 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,841 [tester_code] INFO: Model saved to Coin.pt
+2023-09-20 06:20:06,841 [tester_code] INFO: Everything set back for new game.
+2023-09-20 06:20:06,841 [tester_code] DEBUG: Encountered event(s) 'MOVED_RIGHT', 'COIN_COLLECTED', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-20 06:20:06,863 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:06,877 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:06,892 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,902 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,905 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,914 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,917 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,927 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,928 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:06,931 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:06,944 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:06,959 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,968 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:06,973 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:06,988 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,006 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:07,019 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:07,033 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,043 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,049 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,069 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,070 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:07,074 [tester_code] INFO: Awarded 20 for events MOVED_UP, COIN_COLLECTED
+2023-09-20 06:20:07,085 [tester_code] INFO: Awarded 20 for events MOVED_UP, COIN_COLLECTED
+2023-09-20 06:20:07,100 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,110 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,116 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,136 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,144 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,169 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,186 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,198 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,213 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,222 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,232 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,263 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,282 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,294 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,308 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,318 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,329 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,364 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,383 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,395 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,409 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,418 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,432 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,471 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,472 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:07,476 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,488 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,502 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,512 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,528 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,571 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,589 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,601 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,615 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,625 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,643 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,692 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,711 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,723 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,738 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,750 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,770 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,825 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,843 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,855 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,869 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,879 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,900 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:07,962 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:07,980 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:07,992 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,006 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,016 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,038 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,102 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,120 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,131 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,145 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,155 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,180 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,250 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,268 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,279 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,293 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,303 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,329 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,401 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,418 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,429 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,443 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,453 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,481 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,557 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,574 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,585 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:08,599 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,609 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,638 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,723 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,725 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:08,729 [tester_code] INFO: Awarded 20 for events MOVED_UP, COIN_COLLECTED
+2023-09-20 06:20:08,741 [tester_code] INFO: Awarded 20 for events MOVED_UP, COIN_COLLECTED
+2023-09-20 06:20:08,754 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,764 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,788 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,860 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,891 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:08,978 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:08,979 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:08,983 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:08,995 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:09,008 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,017 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,046 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,133 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,151 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:09,162 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:09,175 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,185 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,190 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,204 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,234 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,321 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,339 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:09,350 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:09,362 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,372 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,375 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,384 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,413 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,496 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,497 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:09,501 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:09,511 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:09,524 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,533 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,563 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,646 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,648 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:09,651 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:09,662 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:09,675 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,684 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,714 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,797 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,798 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:09,802 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:09,812 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:09,825 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,834 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,864 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,945 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:09,964 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:09,974 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:09,986 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:09,996 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,025 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,107 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,124 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,134 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,147 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,156 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,186 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,274 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,292 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,302 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,315 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,324 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,354 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,436 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,453 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:10,463 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:10,475 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,485 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,499 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,537 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,566 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,651 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,666 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,676 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,689 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,699 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,729 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,812 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,814 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:10,818 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,827 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:10,840 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,849 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,878 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:10,960 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:10,976 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:10,986 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:10,998 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,008 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,014 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,034 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,063 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,147 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,163 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:11,172 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:11,184 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,194 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,223 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,323 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,324 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:11,328 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:11,338 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:11,350 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,359 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,389 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,471 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,488 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:11,497 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED
+2023-09-20 06:20:11,509 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,519 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,525 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,544 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,573 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,655 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,671 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:11,680 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:11,692 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,702 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,731 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,814 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,815 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:11,818 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:11,827 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:11,838 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,848 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,877 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:11,960 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:11,975 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, BOMB_EXPLODED
+2023-09-20 06:20:11,984 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, BOMB_EXPLODED
+2023-09-20 06:20:11,994 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,005 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,015 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,043 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,075 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,159 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,173 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:12,181 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:12,191 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,200 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,230 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,315 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,316 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:12,322 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:12,329 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:12,340 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,350 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,379 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,462 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,477 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:12,486 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:12,497 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,507 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,536 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,620 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,634 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:12,643 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:12,654 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,664 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,693 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,780 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,796 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:12,805 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:12,816 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,826 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,855 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,941 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:12,943 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:12,947 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:12,957 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:12,969 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:12,978 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,008 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,091 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,107 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,116 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,127 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,137 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,167 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,252 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,268 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,277 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,289 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,299 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,328 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,413 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,427 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,436 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,447 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,457 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,486 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,569 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,586 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,594 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,606 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,615 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,645 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,729 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,744 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,753 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:13,764 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,774 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,804 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,887 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,889 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:13,892 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:13,901 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:13,912 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:13,922 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:13,951 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,034 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,049 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,057 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,069 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,079 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,109 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,195 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,211 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,219 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,230 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,240 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,270 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,353 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,368 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,377 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,388 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,398 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,428 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,511 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,525 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,533 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,544 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,554 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,584 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,665 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,680 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,688 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,700 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,709 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,739 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,826 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,828 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:14,832 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:14,840 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:14,851 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,861 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,890 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:14,973 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:14,987 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:14,995 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,006 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,016 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,045 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,130 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,144 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,152 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,163 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,173 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,203 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,285 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,299 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,307 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,318 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,327 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,358 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,439 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,454 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,462 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,472 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,482 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,512 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,594 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,608 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,616 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,626 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,636 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,666 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,749 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,764 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,772 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,784 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,797 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,829 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,942 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:15,943 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:15,947 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,956 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:15,967 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:15,977 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,007 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,096 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,111 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,119 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,129 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,139 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,169 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,249 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,263 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,271 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,282 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,291 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,321 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,402 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,415 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,423 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,433 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,443 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,473 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,556 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,569 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,577 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,587 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,596 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,626 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,707 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,721 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,728 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,739 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,748 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,778 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,859 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,873 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,880 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:16,890 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:16,900 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:16,930 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,011 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,024 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:17,032 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:17,042 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,052 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,083 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,167 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,168 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:17,172 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:17,179 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:17,189 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,199 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,228 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,314 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,328 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:17,335 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:17,346 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,355 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,385 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,467 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,469 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:17,472 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:17,480 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:17,490 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,500 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,529 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,610 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,612 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:17,615 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:17,622 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:17,632 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,641 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,671 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,752 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,765 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:17,772 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:17,773 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:17,784 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:17,807 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:17,937 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,307 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,401 [tester_code] INFO: Model saved to Coin.pt
+2023-09-20 06:20:18,401 [tester_code] INFO: Everything set back for new game.
+2023-09-20 06:20:18,402 [tester_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-20 06:20:18,405 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:18,409 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:18,422 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:18,441 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,451 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,454 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,465 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,466 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:18,470 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:18,482 [tester_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-09-20 06:20:18,498 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,507 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,512 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,527 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,528 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:18,531 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:18,544 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:18,560 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,570 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,576 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,597 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,617 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:18,629 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:18,644 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,654 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,663 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,688 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,708 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:18,720 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:18,735 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,744 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,755 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,784 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,803 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:18,815 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:18,815 [tester_code] INFO: Awarded 20 for events MOVED_RIGHT, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-09-20 06:20:18,827 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,851 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,862 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:18,897 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:18,990 [tester_code] INFO: Model saved to Coin.pt
+2023-09-20 06:20:18,991 [tester_code] INFO: Everything set back for new game.
+2023-09-20 06:20:18,991 [tester_code] DEBUG: Encountered event(s) 'MOVED_RIGHT', 'COIN_COLLECTED', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-20 06:20:19,012 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,024 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,040 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,050 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,053 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,062 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,081 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,094 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,109 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,119 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,124 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,138 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,140 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:19,144 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:19,156 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:19,171 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,181 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,187 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,206 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,207 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:19,211 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:19,223 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:19,238 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,248 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,256 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,280 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,298 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:19,311 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:19,325 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,335 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,345 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,373 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,392 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:19,404 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:19,419 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,428 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,440 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,473 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,492 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,504 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,519 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,529 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,542 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,581 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,599 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,612 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,627 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,638 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,654 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,700 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,719 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,732 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,747 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,757 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,773 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,822 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,841 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,853 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,868 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,878 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,896 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:19,949 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:19,967 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,979 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:19,994 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,003 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,024 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,085 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,104 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,116 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,130 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,140 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,162 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,225 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,243 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,254 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,269 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,279 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,303 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,371 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,389 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,401 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,415 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,425 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,451 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,523 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,541 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,553 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,567 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,577 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,605 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,682 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,699 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,711 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,725 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,735 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,764 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,847 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,865 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,877 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:20,891 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:20,901 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:20,930 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,011 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,012 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:21,016 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:21,027 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:21,042 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,051 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,081 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,167 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,186 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,197 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,212 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,221 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,250 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,336 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,354 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,366 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,380 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,389 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,419 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,502 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,520 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,531 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,545 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,555 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,584 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,665 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,667 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:21,670 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,682 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,695 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,705 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,735 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,817 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,834 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,845 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:21,859 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,869 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,898 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:21,979 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:21,996 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,007 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,021 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,031 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,060 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,151 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,168 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,179 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,193 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,203 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,232 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,318 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,336 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,347 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,361 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,370 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,399 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,481 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,482 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:22,486 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,496 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,510 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,520 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,549 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,632 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,633 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:22,637 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:22,647 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:22,660 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,670 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,700 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,786 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,804 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,815 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,828 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,838 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,867 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:22,953 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:22,972 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,983 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:22,996 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,006 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,036 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,119 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,121 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:23,126 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,136 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,150 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,160 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,189 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,272 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,273 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:23,276 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,287 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,300 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,310 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,340 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,423 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,424 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:23,428 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,438 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,451 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,461 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,491 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,572 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,589 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,599 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,612 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,622 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,652 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,738 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,754 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,765 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,777 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,787 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,817 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,903 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,921 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,931 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:23,944 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:23,954 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:23,984 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,065 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,082 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,092 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,105 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,115 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,144 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,231 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,248 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,258 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,271 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,281 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,311 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,396 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,413 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,432 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,456 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,469 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,500 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,583 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,600 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,610 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,623 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,633 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,662 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,748 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,764 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,775 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:24,788 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,797 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,827 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,914 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:24,932 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, GOT_KILLED
+2023-09-20 06:20:24,942 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, GOT_KILLED
+2023-09-20 06:20:24,942 [tester_code] INFO: Awarded 0 for events INVALID_ACTION, GOT_KILLED
+2023-09-20 06:20:24,953 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:24,978 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,054 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,276 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,373 [tester_code] INFO: Model saved to Coin.pt
+2023-09-20 06:20:25,374 [tester_code] INFO: Everything set back for new game.
+2023-09-20 06:20:25,374 [tester_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'GOT_KILLED' in final step
+2023-09-20 06:20:25,396 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,409 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,425 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,435 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,438 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,448 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,449 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:25,452 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,465 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,480 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,490 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,495 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,510 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,528 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,540 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,555 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,565 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,571 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,591 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,592 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:25,596 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:25,608 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:25,623 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,633 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,641 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,665 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,683 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:25,695 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:25,710 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,719 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,730 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,758 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,776 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,789 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,804 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,813 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,825 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,859 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,877 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,889 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,904 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,913 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,927 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:25,966 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:25,984 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:25,996 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,011 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,020 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,036 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,082 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,083 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:26,087 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:26,099 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:26,113 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,123 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,140 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,190 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,209 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:26,221 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:26,236 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,246 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,265 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,319 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,339 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,351 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,366 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,375 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,396 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,453 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,471 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,484 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,498 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,508 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,530 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,592 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,611 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,623 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,637 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,647 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,671 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,738 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,756 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,768 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,782 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,792 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,818 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,893 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,911 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,923 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:26,937 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:26,947 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:26,975 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,053 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,054 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:27,058 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,070 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,085 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,095 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,124 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,209 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,227 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,239 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,254 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,264 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,293 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,377 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,396 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,407 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,422 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,431 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,462 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,544 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,545 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:27,549 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:27,561 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:27,574 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,584 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,613 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,696 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,714 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:27,726 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:27,740 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,749 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,778 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,865 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,883 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,894 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:27,908 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:27,918 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:27,948 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,032 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,049 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,060 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,074 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,084 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,114 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,201 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,222 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,233 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,247 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,259 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,288 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,373 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,392 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,403 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,416 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,426 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,456 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,539 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,541 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:28,544 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:28,555 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:28,568 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,578 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,607 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,690 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,708 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:28,719 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:28,732 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,741 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,770 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,854 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,872 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,883 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:28,897 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:28,907 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:28,936 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,020 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,036 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,047 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,061 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,071 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,101 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,182 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,198 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,209 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,223 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,233 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,262 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,348 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,366 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,377 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,390 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,400 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,430 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,517 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,535 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,545 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,558 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,568 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,598 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,679 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,695 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,706 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,719 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,728 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,758 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,842 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,859 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,869 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:29,882 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:29,892 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:29,922 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,003 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,019 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,029 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,042 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,052 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,082 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,168 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,184 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,195 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,208 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,218 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,247 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,330 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,331 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:30,335 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:30,345 [tester_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-09-20 06:20:30,357 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,367 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,396 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,479 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,496 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:30,506 [tester_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-09-20 06:20:30,518 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,528 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,557 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,641 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,657 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,667 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,680 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,689 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,720 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,813 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,831 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,843 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:30,858 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:30,868 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:30,902 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,060 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,091 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,108 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,131 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,144 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,178 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,272 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,293 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,303 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,316 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,328 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,358 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,475 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,496 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,507 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,522 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,534 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,568 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,664 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,684 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,695 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,708 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,718 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,750 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,843 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,863 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,873 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:31,887 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:31,898 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:31,930 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,027 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,047 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,058 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,073 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,083 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,115 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,213 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,231 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,241 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,255 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,266 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,298 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,395 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,396 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:32,400 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:32,412 [tester_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-09-20 06:20:32,425 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,436 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,467 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,561 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,579 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,590 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,603 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,614 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,645 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,740 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,758 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,770 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,783 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,793 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,827 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,922 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:32,940 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,951 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:32,964 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:32,975 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,005 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,106 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,124 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,136 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,149 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,161 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,196 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,294 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,312 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,323 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,335 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,346 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,379 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,474 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,475 [tester_code] DEBUG: Choosing action purely at random.
+2023-09-20 06:20:33,480 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:33,490 [tester_code] INFO: Awarded 0 for events MOVED_UP
+2023-09-20 06:20:33,502 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,513 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,543 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,635 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,654 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,664 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,677 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,687 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,718 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,811 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,828 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,838 [tester_code] INFO: Awarded 0 for events INVALID_ACTION
+2023-09-20 06:20:33,851 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,861 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:33,892 [tester_code] DEBUG: States and rewards translated to tensors.
+2023-09-20 06:20:33,986 [tester_code] DEBUG: Model trained for this step
+2023-09-20 06:20:35,223 [tester_wrapper] ERROR: 
+Traceback (most recent call last):
+  File "C:\Users\SZ\Desktop\bomberman_rl\agents.py", line 248, in process_event
+    event_result = getattr(module, event_name)(self.fake_self, *event_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SZ\Desktop\bomberman_rl\agent_code\tester\train.py", line 316, in game_events_occurred
+    plot(self, model_folder_path)
+  File "C:\Users\SZ\Desktop\bomberman_rl\agent_code\tester\train.py", line 509, in plot
+    sys.exit()
+SystemExit

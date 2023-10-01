@@ -1,0 +1,629 @@
+2023-08-19 03:02:51,513 [first_agent_code] INFO: Setting up model from scratch.
+2023-08-19 03:02:51,556 [first_agent_code] DEBUG: Self setup done
+2023-08-19 03:02:51,641 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:02:51,670 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:51,715 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:51,830 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:51,832 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:02:51,836 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:02:51,855 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:51,872 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:51,901 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:51,980 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,036 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:52,038 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:52,040 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:02:52,051 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:02:52,056 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:52,087 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,240 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,369 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,447 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:52,449 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:02:52,470 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:52,486 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:52,506 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,607 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,689 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,800 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:52,871 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:52,872 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:52,877 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:02:52,886 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:02:52,901 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:52,921 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,020 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,122 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,265 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,336 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,405 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:53,407 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:02:53,453 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:53,472 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:53,505 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,603 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,701 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,789 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,884 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:53,957 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,023 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:54,027 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:54,048 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:02:54,055 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:54,088 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,167 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,283 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,419 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,515 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,598 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,671 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,766 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:54,767 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:02:54,800 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:54,821 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:54,853 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:54,972 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,046 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,134 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,224 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,316 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,387 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,457 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,536 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:55,538 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:55,547 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:02:55,556 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:02:55,599 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:55,622 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,772 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,848 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:55,924 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,039 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,145 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,245 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,347 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,421 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,478 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:56,481 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:02:56,503 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:56,526 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:56,549 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,619 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,690 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,767 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:56,902 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,049 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,123 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,212 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,318 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,431 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,523 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:57,526 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:57,547 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:02:57,558 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:57,588 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,665 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,738 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,815 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,885 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:57,959 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,048 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,250 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,351 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,424 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,521 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,601 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:58,603 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:02:58,632 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:58,672 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:58,705 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,790 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,866 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:58,935 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,005 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,081 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,163 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,287 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,419 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,540 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,631 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,703 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,779 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:02:59,781 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:02:59,805 [first_agent_code] INFO: Awarded -5.5 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:02:59,813 [first_agent_code] INFO: Awarded -5.5 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:02:59,867 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:02:59,904 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:02:59,995 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,117 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,215 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,307 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,389 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,480 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,579 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,688 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,789 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:00,920 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,003 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,099 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:01,104 [first_agent_code] INFO: Everything set back for new game.
+2023-08-19 03:03:01,105 [first_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-19 03:03:01,189 [first_agent_code] INFO: Model saved to CoinCollector1.pt
+2023-08-19 03:03:01,215 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:01,231 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:01,237 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:01,278 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,338 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:01,343 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:01,405 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:01,420 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:01,460 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,555 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,619 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:01,620 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:01,649 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:01,654 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:01,691 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,767 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,839 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:01,921 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:01,925 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:01,969 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:01,986 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:02,017 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,114 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,216 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,322 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,420 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:02,422 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:02,470 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:02,490 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:02,533 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,605 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,680 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,749 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,836 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:02,893 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:02,896 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:02,918 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:02,930 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:02,956 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,028 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,099 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,218 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,323 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,426 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,488 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:03,490 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:03,499 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:03,523 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:03:03,556 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:03,588 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,721 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,822 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,898 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:03,982 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,054 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,131 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,205 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:04,207 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:03:04,214 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:04,221 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:04,240 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:04,265 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,334 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,452 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,664 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,738 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,820 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:04,916 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,013 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,084 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:05,086 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:05,107 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:05,135 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:05,171 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,262 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,334 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,451 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,637 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,840 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:05,987 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,059 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,159 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,244 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:06,246 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:06,271 [first_agent_code] INFO: Awarded 5 for events MOVED_RIGHT, COIN_COLLECTED
+2023-08-19 03:03:06,304 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:06,323 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,420 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,489 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,566 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,644 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,718 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,810 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,882 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:06,988 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,101 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,228 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:07,231 [first_agent_code] INFO: Awarded 5 for events MOVED_RIGHT, COIN_COLLECTED
+2023-08-19 03:03:07,235 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:07,247 [first_agent_code] INFO: Awarded -5.5 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:03:07,250 [first_agent_code] INFO: Awarded -5.5 for events INVALID_ACTION, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:03:07,266 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:07,282 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,375 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,486 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,598 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,672 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,749 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,870 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:07,945 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:08,037 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:08,169 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:08,253 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:08,255 [first_agent_code] INFO: Everything set back for new game.
+2023-08-19 03:03:08,256 [first_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-19 03:03:08,371 [first_agent_code] INFO: Model saved to CoinCollector1.pt
+2023-08-19 03:03:08,472 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:08,497 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:08,542 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:08,622 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:08,625 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:08,670 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:08,684 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:08,714 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:08,803 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:08,872 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:08,878 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:08,922 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:08,949 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:08,981 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,056 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,128 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,193 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:09,195 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:09,215 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:09,220 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:09,250 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,334 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,401 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,474 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,543 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:09,546 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:09,582 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:09,601 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:09,639 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,777 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:09,936 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,086 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,222 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,313 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:10,315 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:10,335 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:03:10,350 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:10,370 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,442 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,516 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,585 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,654 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,722 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,779 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:10,781 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:03:10,801 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:10,819 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:10,838 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:10,918 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,031 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,168 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,254 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,352 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,446 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,503 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:11,505 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:11,508 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:11,518 [first_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-19 03:03:11,535 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:11,555 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,639 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,713 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,782 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,853 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:11,929 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,003 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,097 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,245 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:12,249 [first_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-19 03:03:12,304 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:12,322 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:12,353 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,466 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,568 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,665 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,747 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,832 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,905 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:12,978 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,049 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,107 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:13,112 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:13,115 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:13,121 [first_agent_code] INFO: Awarded 0 for events MOVED_UP, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:03:13,126 [first_agent_code] INFO: Awarded 0 for events MOVED_UP, COIN_COLLECTED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:03:13,146 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:13,168 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,290 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,381 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,466 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,573 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,696 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,820 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:13,934 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,030 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,100 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:14,102 [first_agent_code] INFO: Everything set back for new game.
+2023-08-19 03:03:14,103 [first_agent_code] DEBUG: Encountered event(s) 'MOVED_UP', 'COIN_COLLECTED', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-19 03:03:14,185 [first_agent_code] INFO: Model saved to CoinCollector1.pt
+2023-08-19 03:03:14,230 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:03:14,237 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:14,280 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,380 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:14,383 [first_agent_code] INFO: Awarded 0 for events BOMB_DROPPED
+2023-08-19 03:03:14,387 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:14,401 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:14,405 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:14,443 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,513 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,579 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:14,582 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:14,584 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:14,603 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:14,616 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:14,646 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,721 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,830 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:14,932 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:14,934 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:14,957 [first_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-19 03:03:14,983 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:15,006 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,098 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,205 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,277 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,332 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:15,333 [first_agent_code] INFO: Awarded 0 for events WAITED
+2023-08-19 03:03:15,351 [first_agent_code] INFO: Awarded -5 for events WAITED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:03:15,353 [first_agent_code] INFO: Awarded -5 for events WAITED, BOMB_EXPLODED, KILLED_SELF, GOT_KILLED
+2023-08-19 03:03:15,364 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:15,379 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,463 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,540 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,606 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,669 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:15,671 [first_agent_code] INFO: Everything set back for new game.
+2023-08-19 03:03:15,672 [first_agent_code] DEBUG: Encountered event(s) 'WAITED', 'BOMB_EXPLODED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-08-19 03:03:15,730 [first_agent_code] INFO: Model saved to CoinCollector1.pt
+2023-08-19 03:03:15,755 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:15,766 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:15,794 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,852 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:15,854 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:15,876 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:15,888 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:15,907 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:15,991 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,067 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:16,069 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:16,105 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:16,121 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:16,164 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,303 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,399 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,519 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:16,523 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:16,533 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:16,546 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:16,555 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:16,600 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,680 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,749 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,819 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:16,880 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:16,882 [first_agent_code] INFO: Awarded 0 for events MOVED_RIGHT
+2023-08-19 03:03:16,901 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:16,907 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:16,935 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,006 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,073 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,139 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,223 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,303 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:17,306 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:17,340 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:17,382 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:17,430 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,591 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,705 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,802 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,879 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:17,949 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,028 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:18,030 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:18,032 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:18,038 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:18,068 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:18,089 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,173 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,253 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,336 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,414 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,484 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,617 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,706 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:18,715 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:18,788 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:18,818 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:18,843 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:18,934 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,029 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,180 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,317 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,419 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,570 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,680 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,747 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:19,748 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:19,785 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:19,808 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:19,831 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:19,972 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,097 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,201 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,295 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,405 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,478 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,549 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,623 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,683 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:20,684 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:20,707 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:20,752 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:20,770 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,845 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:20,934 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,030 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,101 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,226 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,375 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,470 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,585 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,662 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,718 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:21,720 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:21,723 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:21,732 [first_agent_code] INFO: Awarded 5 for events MOVED_UP, COIN_COLLECTED
+2023-08-19 03:03:21,740 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:21,788 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,867 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:21,939 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,032 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,133 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,231 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,302 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,380 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,538 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,702 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,810 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:22,895 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:22,897 [first_agent_code] INFO: Awarded 5 for events MOVED_UP, COIN_COLLECTED
+2023-08-19 03:03:22,916 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:22,936 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:22,960 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,031 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,145 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,227 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,322 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,400 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,472 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,548 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,619 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,702 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:23,817 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,009 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,088 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:24,094 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:24,098 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:24,107 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:24,164 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:24,206 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,305 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,382 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,481 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,565 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,638 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,724 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,818 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,888 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:24,970 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,108 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,306 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,413 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,506 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:25,511 [first_agent_code] INFO: Awarded -0.5 for events INVALID_ACTION
+2023-08-19 03:03:25,515 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:25,535 [first_agent_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-08-19 03:03:25,567 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:25,587 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,690 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,794 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,884 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:25,994 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,101 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,206 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,381 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,548 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,680 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,801 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:26,928 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,029 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,117 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,197 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:27,200 [first_agent_code] INFO: Awarded 0 for events MOVED_DOWN
+2023-08-19 03:03:27,236 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:27,264 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:27,283 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,366 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,475 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,569 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,686 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,812 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,903 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:27,988 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,102 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,218 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,285 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,352 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,422 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,503 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,572 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,653 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:28,655 [first_agent_code] INFO: Awarded 5 for events MOVED_LEFT, COIN_COLLECTED
+2023-08-19 03:03:28,663 [first_agent_code] DEBUG: Choosing action purely at random.
+2023-08-19 03:03:28,672 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:28,708 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:28,731 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,802 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,905 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:28,998 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,083 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,186 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,296 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,379 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,446 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,531 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,600 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,671 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,748 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,844 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,918 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:29,986 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:30,047 [first_agent_code] DEBUG: Model trained for this step
+2023-08-19 03:03:30,049 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:30,085 [first_agent_code] INFO: Awarded 0 for events MOVED_LEFT
+2023-08-19 03:03:30,129 [first_agent_code] DEBUG: States and rewards translated to tensors.
+2023-08-19 03:03:30,159 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:30,300 [first_agent_code] DEBUG: Q values calculated.
+2023-08-19 03:03:30,380 [first_agent_wrapper] ERROR: 
+Traceback (most recent call last):
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agents.py", line 248, in process_event
+    event_result = getattr(module, event_name)(self.fake_self, *event_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\first_agent\train.py", line 140, in game_events_occurred
+    train(self, mini_sample)
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\first_agent\train.py", line 303, in train
+    loss.backward()
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\_tensor.py", line 487, in backward
+    torch.autograd.backward(
+  File "C:\Users\C. Zehender\anaconda3\envs\ml_homework\Lib\site-packages\torch\autograd\__init__.py", line 200, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

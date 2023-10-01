@@ -1,0 +1,16 @@
+2023-08-14 01:02:24,173 [my_agent_code] INFO: Loading model from saved state.
+2023-08-14 01:02:35,118 [my_agent_wrapper] ERROR: cannot access local variable 'relativ_center_of_gravity_x' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agents.py", line 248, in process_event
+    event_result = getattr(module, event_name)(self.fake_self, *event_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\my_agent\callbacks.py", line 60, in act
+    c_state = state_to_features(game_state)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\my_agent\callbacks.py", line 92, in state_to_features
+    calculate_gravD_coins (x_p, y_p, game_state),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\C. Zehender\Desktop\bomberman_rl\agent_code\my_agent\callbacks.py", line 150, in calculate_gravD_coins
+    return torch.tensor([obj_x, obj_y, relativ_center_of_gravity_x, relativ_center_of_gravity_y, density, float(count_obj)], dtype=torch.float)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'relativ_center_of_gravity_x' where it is not associated with a value

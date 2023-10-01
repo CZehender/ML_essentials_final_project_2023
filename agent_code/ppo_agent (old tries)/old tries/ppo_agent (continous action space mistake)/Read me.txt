@@ -1,0 +1,2 @@
+Callback with multinomial and learning on batches
+Need to install keybords first

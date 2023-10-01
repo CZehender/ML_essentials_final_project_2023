@@ -1,0 +1,1040 @@
+2023-09-25 01:40:42,922 [train_rule_agent_code] INFO: Loading model from saved state.
+2023-09-25 01:40:43,029 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:43,171 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:43,175 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:43,193 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:43,756 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:43,903 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:43,904 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:43,909 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:43,914 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:44,133 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:44,135 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,139 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,144 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,147 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:44,340 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:44,342 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,347 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,352 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,359 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,364 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:44,366 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:44,483 [train_rule_agent_code] INFO: Model saved to Coin.pt
+2023-09-25 01:40:44,484 [train_rule_agent_code] INFO: Everything set back for new game.
+2023-09-25 01:40:44,484 [train_rule_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'COIN_FOUND', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-25 01:40:44,690 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:44,692 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,695 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:44,898 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:44,900 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,904 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:44,909 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:45,105 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:45,106 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,111 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,115 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,119 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:45,320 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:45,322 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,326 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,331 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,336 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,339 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:45,544 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:45,545 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,550 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,555 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,559 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,564 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,568 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:45,741 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:45,743 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,747 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,752 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,756 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,761 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,766 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,769 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:45,914 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:45,916 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,920 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,927 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,936 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,956 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,970 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,978 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:45,986 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:45,988 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:46,102 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:46,103 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,108 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,112 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,117 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,121 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,126 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,131 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,135 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,139 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:46,306 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:46,308 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,313 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,320 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,327 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,334 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,340 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,347 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,353 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,360 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,367 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:46,537 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:46,538 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,543 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,548 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,552 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,557 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,561 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,566 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,571 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,576 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,581 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,585 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:46,743 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:46,744 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,750 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,755 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,760 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,764 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,770 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,774 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,781 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,786 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,792 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,798 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,802 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:46,960 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:46,961 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,966 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,971 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,976 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,981 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,986 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,991 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:46,996 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,001 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,006 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,012 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,017 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,021 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:47,174 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:47,175 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,180 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,184 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,189 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,193 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,198 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,202 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,207 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,212 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,217 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,222 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,227 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,231 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,235 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:47,236 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:47,332 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:47,334 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,338 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,343 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,347 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,352 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,356 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,361 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,366 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,371 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,376 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,380 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,385 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,390 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,395 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,398 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:47,543 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:47,545 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,549 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,554 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,558 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,563 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,568 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,572 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,577 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,581 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,586 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,590 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,595 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,599 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,604 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,609 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,613 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:47,767 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:47,768 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,772 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,777 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,783 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,788 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,792 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,797 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,801 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,806 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,810 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,815 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,820 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,825 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,829 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,834 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,839 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,843 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:47,844 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:47,957 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:47,959 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,963 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,968 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,972 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,977 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,981 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,985 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,990 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:47,995 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,000 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,005 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,010 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,015 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,019 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,024 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,029 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,033 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:48,034 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:48,155 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:48,157 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,161 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,166 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,171 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,175 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,180 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,184 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,189 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,194 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,199 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,203 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,208 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,213 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,218 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,223 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,228 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,231 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:48,392 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:48,394 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,399 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,403 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,408 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,412 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,418 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,422 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,427 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,432 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,437 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,442 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,447 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,451 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,456 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,461 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,466 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,470 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:48,471 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:48,605 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:48,608 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,619 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,630 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,638 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,645 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,652 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,659 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,666 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,673 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,684 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,691 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,698 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,704 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,710 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,717 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,723 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,728 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:48,912 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:48,913 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,918 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,923 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,928 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,934 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,939 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,944 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,950 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,955 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,961 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,965 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,972 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,977 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,983 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,989 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,994 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:48,999 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:49,147 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:49,148 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,154 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,158 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,165 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,169 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,175 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,180 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,186 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,190 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,195 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,200 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,205 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,210 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,215 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,219 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,224 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,228 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:49,368 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:49,370 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,374 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,379 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,384 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,388 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,393 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,398 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,402 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,407 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,412 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,417 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,422 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,427 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,431 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,436 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,440 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,445 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:49,446 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:49,546 [train_rule_agent_code] INFO: Model saved to Coin.pt
+2023-09-25 01:40:49,546 [train_rule_agent_code] INFO: Everything set back for new game.
+2023-09-25 01:40:49,547 [train_rule_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-25 01:40:49,767 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:49,769 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,772 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:49,773 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:49,916 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:49,918 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,922 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:49,926 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:50,134 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:50,136 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,140 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,145 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,150 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:50,153 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:50,322 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:50,323 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,328 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,333 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,339 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,342 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:50,535 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:50,537 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,541 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,546 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,551 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,555 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,559 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:50,753 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:50,755 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,761 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,769 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,775 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,783 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,790 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,795 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:50,977 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:50,979 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,984 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,988 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,993 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:50,998 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,003 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,007 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,011 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:51,190 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:51,192 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,197 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,202 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,206 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,210 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,216 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,220 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,225 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,229 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:51,425 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:51,426 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,431 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,436 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,440 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,445 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,449 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,454 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,459 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,464 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,468 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:51,663 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:51,664 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,669 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,673 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,679 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,684 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,689 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,694 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,699 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,704 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,709 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,712 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:51,905 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:51,906 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,911 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,915 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,920 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,924 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,930 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,934 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,939 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,944 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,949 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,954 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:51,959 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:52,187 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:52,188 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,193 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,198 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,203 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,208 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,212 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,218 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,222 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,228 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,233 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,238 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,243 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,247 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:52,248 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:52,378 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:52,379 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,384 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,389 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,393 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,398 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,402 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,406 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,411 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,416 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,420 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,425 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,430 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,434 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,438 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:52,439 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:52,550 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:52,552 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,557 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,561 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,566 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,570 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,575 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,580 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,585 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,590 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,595 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,600 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,605 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,610 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,615 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,619 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:52,761 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:52,762 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,767 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,772 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,777 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,783 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,789 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,794 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,799 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,803 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,809 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,814 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,819 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,824 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,828 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,833 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:52,837 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:53,010 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:53,011 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,016 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,021 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,025 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,031 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,036 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,041 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,046 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,051 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,056 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,061 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,066 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,071 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,076 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,081 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,086 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,090 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:53,249 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:53,250 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,255 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,260 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,264 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,269 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,274 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,279 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,284 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,289 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,293 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,298 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,303 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,308 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,313 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,318 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,323 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,327 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:53,479 [train_rule_agent_code] INFO: Model saved to Coin.pt
+2023-09-25 01:40:53,480 [train_rule_agent_code] INFO: Everything set back for new game.
+2023-09-25 01:40:53,480 [train_rule_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-25 01:40:53,699 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:53,700 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,703 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:53,910 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:53,912 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,917 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:53,920 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,119 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:54,120 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,125 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,131 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,134 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,135 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:54,266 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:54,268 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,273 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,278 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,282 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,285 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,287 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:54,414 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:54,416 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,420 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,424 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,429 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,434 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,438 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,439 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:54,550 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:54,552 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,556 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,561 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,565 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,570 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,575 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,579 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,724 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:54,726 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,730 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,735 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,740 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,745 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,750 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,754 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,758 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,906 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:54,908 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,913 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,917 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,922 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,927 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,932 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,936 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,942 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:54,947 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:54,948 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:55,047 [train_rule_agent_code] INFO: Model saved to Coin.pt
+2023-09-25 01:40:55,047 [train_rule_agent_code] INFO: Everything set back for new game.
+2023-09-25 01:40:55,047 [train_rule_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-09-25 01:40:55,254 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:55,255 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,259 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:55,260 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:55,419 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:55,420 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,426 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,430 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:55,432 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:55,567 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:55,569 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,573 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,578 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,581 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:55,795 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:55,796 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,800 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,804 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,809 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,812 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:55,990 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:55,991 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:55,996 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,000 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,005 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,009 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,013 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:56,193 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:56,195 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,200 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,204 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,210 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,215 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,220 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,223 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:56,377 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:56,379 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,383 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,388 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,393 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,397 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,402 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,407 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,411 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:56,573 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:56,574 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,579 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,584 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,589 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,595 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,600 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,605 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,610 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,614 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:56,790 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:56,792 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,796 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,801 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,805 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,810 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,815 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,820 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,825 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,830 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:56,834 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:57,011 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:57,013 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,020 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,025 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,033 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,039 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,046 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,054 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,062 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,070 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,079 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,086 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:57,088 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:57,266 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:57,268 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,276 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,284 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,290 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,297 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,303 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,309 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,315 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,321 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,328 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,335 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,341 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:57,517 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:57,519 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,524 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,529 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,535 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,540 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,546 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,551 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,557 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,562 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,568 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,573 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,579 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,583 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:57,763 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:57,764 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,769 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,773 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,779 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,784 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,789 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,794 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,800 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,804 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,811 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,816 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,821 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,826 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:57,830 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:58,001 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:58,002 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,007 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,012 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,016 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,021 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,026 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,031 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,036 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,041 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,046 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,051 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,056 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,061 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,066 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,070 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:58,223 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:58,225 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,230 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,234 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,238 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,243 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,247 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,252 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,257 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,262 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,266 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,272 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,277 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,282 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,286 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,292 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,296 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:58,472 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:58,474 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,479 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,484 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,488 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,494 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,500 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,504 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,510 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,515 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,520 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,526 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,532 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,537 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,542 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,547 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,552 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,556 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:58,746 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:58,748 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,752 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,758 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,765 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,770 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,776 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,783 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,789 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,794 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,799 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,805 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,810 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,815 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,819 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,825 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,830 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:58,834 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:59,022 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:59,024 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,028 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,032 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,037 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,042 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,047 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,052 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,056 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,061 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,066 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,071 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,075 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,080 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,085 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,090 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,095 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,098 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:59,293 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:59,295 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,299 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,304 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,309 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,314 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,319 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,325 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,330 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,335 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,340 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,345 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,350 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,355 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,360 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,365 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,369 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,374 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:59,375 [train_rule_agent_code] DEBUG: Choosing action purely at random.
+2023-09-25 01:40:59,505 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:59,506 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,510 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,515 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,519 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,524 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,529 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,535 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,540 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,545 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,550 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,554 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,559 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,564 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,569 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,574 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,578 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,582 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:40:59,794 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:40:59,797 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,806 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,813 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,821 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,829 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,838 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,846 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,853 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,859 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,864 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,870 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,875 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,880 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,884 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,890 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,894 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:40:59,898 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:00,084 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:00,086 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,091 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,095 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,100 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,104 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,109 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,114 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,119 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,123 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,128 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,133 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,138 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,143 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,149 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,154 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,159 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,162 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:00,305 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:00,306 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,311 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,315 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,320 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,325 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,330 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,334 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,339 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,344 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,350 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,354 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,359 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,364 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,369 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,374 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,379 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,382 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:00,548 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:00,550 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,555 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,559 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,564 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,568 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,573 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,577 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,582 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,587 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,592 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,597 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,602 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,607 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,612 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,617 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,621 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,625 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:00,788 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:00,790 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,795 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,799 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,804 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,808 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,813 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,818 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,823 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,828 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,833 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,838 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,843 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,848 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,853 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,857 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,862 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:00,866 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:01,026 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:01,028 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,033 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,037 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,042 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,046 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,050 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,055 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,060 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,065 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,070 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,075 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,080 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,085 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,089 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,094 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,099 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,103 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:01,267 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:01,269 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,274 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,278 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,284 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,288 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,293 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,298 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,303 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,309 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,315 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,320 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,326 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,330 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,337 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,342 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,347 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,351 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:01,512 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:01,514 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,518 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,522 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,527 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,531 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,536 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,540 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,547 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,552 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,557 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,561 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,566 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,571 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,576 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,580 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,586 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,591 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:01,777 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:01,779 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,785 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,791 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,796 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,802 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,809 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,815 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,821 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,829 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,837 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,844 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,852 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,861 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,868 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,878 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,887 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:01,895 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:02,079 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:02,081 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,085 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,090 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,094 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,099 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,104 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,109 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,114 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,119 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,123 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,129 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,133 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,138 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,143 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,148 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,153 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,158 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:02,301 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:02,302 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,307 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,312 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,316 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,321 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,326 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,332 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,337 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,342 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,347 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,352 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,357 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,362 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,367 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,371 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,376 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,380 [train_rule_agent_code] DEBUG: Model trained for this step
+2023-09-25 01:41:02,514 [train_rule_agent_code] DEBUG: States and rewards translated to tensors.
+2023-09-25 01:41:02,515 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,520 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,524 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,528 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,532 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,536 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,541 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,545 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,550 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,554 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,559 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,563 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,568 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,572 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,576 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,581 [train_rule_agent_code] DEBUG: Q values calculated.
+2023-09-25 01:41:02,584 [train_rule_agent_code] DEBUG: Model trained for this step

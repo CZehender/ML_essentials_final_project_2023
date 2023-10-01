@@ -1,0 +1,8 @@
+def generate_masks(input_tensors):
+    masks = []
+    for tensor in input_tensors:
+        mask = ~torch.isnan(tensor).float()  # Convert NaNs to 0s and non-NaNs to 1s
+        masks.append(mask)
+    return masks
+
+

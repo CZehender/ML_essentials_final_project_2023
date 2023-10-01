@@ -1,0 +1,163 @@
+class NaNMaskedLayer(nn.Module):
+    def __init__(self, input_size, output_size):
+        super(NaNMaskedLayer, self).__init__()
+        self.linear = nn.Linear(input_size, output_size)
+
+    def forward(self, input_tensor, mask):
+        # Apply the mask to set NaN values to zero
+        masked_input = input_tensor * mask
+
+        # Pass the masked input through a linear layer
+        output = self.linear(masked_input)
+
+        return output
+
+class NaNAwareLayer(nn.Module):
+    def __init__(self, input_size, hidden_size):
+        super(NaNAwareLayer, self).__init__()
+        self.linear = nn.Linear(input_size, hidden_size)
+    
+    def forward(self, input_tensor, mask_tensor):
+        # Set NaN values to 0 by element-wise multiplication with the mask
+        masked_input = input_tensor * mask_tensor
+
+        # Perform linear transformation on the masked input
+        output = self.linear(masked_input)
+
+        return output
+
+class NaNMaskedLayer(nn.Module):
+    def __init__(self, input_size, output_size):
+        super(NaNMaskedLayer, self).__init__()
+        self.input_size = input_size
+        self.output_size = output_size
+        self.linear = nn.Linear(input_size, output_size)
+    
+    def forward(self, x, mask):
+        # Apply the mask to set NaN values to zero
+        masked_input = x * mask
+        
+        # Compute the output while ignoring NaN values
+        output = self.linear(masked_input)
+        
+        return output
+
+class MaskedLayer(nn.Module):
+    def __init__(self, input_size, hidden_size):
+        super(MaskedLayer, self).__init__()
+        self.linear = nn.Linear(input_size, hidden_size)
+        
+    def forward(self, input_tensor, mask):
+        # Element-wise multiplication of the input with the mask
+        masked_input = input_tensor * mask
+        
+        # Pass the masked input through the linear layer
+        output = self.linear(masked_input)
+        
+        return output
+
+class MaskedLayer(nn.Module):
+    def __init__(self, input_size):
+        super(MaskedLayer, self).__init__()
+        self.input_size = input_size
+
+        # Create a learnable parameter to apply masking
+        self.mask_parameter = nn.Parameter(torch.ones(input_size))
+
+    def forward(self, input_tensor, mask_tensor):
+        # Element-wise multiplication to apply masking
+        masked_input = input_tensor * mask_tensor
+
+        # Perform computation on the masked input
+        # You can add more layers and activations as needed
+        output = torch.relu(masked_input)
+
+        return output
+
+
+
+class NaNMaskedLayer(nn.Module):
+    def __init__(self, input_size, hidden_size):
+        super(NaNMaskedLayer, self).__init__()
+        self.linear = nn.Linear(input_size, hidden_size)
+
+    def forward(self, input_tensor, mask):
+        masked_input = input_tensor * mask
+        output = self.linear(masked_input)
+        return output
+
+
+class CustomMaskedLayer(nn.Module):
+    def __init__(self, input_size, hidden_size):
+        super(CustomMaskedLayer, self).__init__()
+        self.linear = nn.Linear(input_size, hidden_size)
+        self.relu = nn.ReLU()
+
+    def forward(self, input_tensor, mask):
+        # Element-wise multiplication of input_tensor and mask
+        masked_input = input_tensor * mask
+
+        # Pass the masked input through linear and activation layers
+        output = self.relu(self.linear(masked_input))
+
+        return output
+
+
+class NaNMaskedLayer(nn.Module):
+    def __init__(self, input_size, output_size):
+        super(NaNMaskedLayer, self).__init__()
+        self.linear = nn.Linear(input_size, output_size)
+
+    def forward(self, tensor, mask):
+        # Multiply the input tensor by the mask to set NaN values to zero
+        masked_input = tensor * mask
+        
+        # Apply the linear transformation to the masked input
+        output = self.linear(masked_input)
+        
+        return output
+
+
+class CustomMaskedLayer(nn.Module):
+    def __init__(self):
+        super(CustomMaskedLayer, self).__init__()
+
+    def forward(self, input_tensor, mask):
+        # Multiply input_tensor by the mask to set NaN values to zero
+        masked_input = input_tensor * mask
+        return masked_input
+
+
+class NaNMaskedLayer(nn.Module):
+    def __init__(self, input_size):
+        super(NaNMaskedLayer, self).__init__()
+        self.input_size = input_size
+
+    def forward(self, input_tensor, mask):
+        # Element-wise multiplication with the mask to set NaN values to zero
+        masked_input = input_tensor * mask
+
+        # Pass the masked input through the layer's computation
+        output = self.compute_output(masked_input)
+
+        return output
+
+
+class CustomLayer(nn.Module):
+    def __init__(self):
+        super(CustomLayer, self).__init__()
+
+    def forward(self, input_tensor, mask_tensor):
+        # Multiply input_tensor by mask_tensor to set NaN values to zero
+        masked_input = input_tensor * mask_tensor
+        # Pass the masked_input through a linear transformation and activation function
+        output = nn.functional.relu(nn.Linear(masked_input.shape[1], 6)(masked_input))
+        return output
+
+class MaskedLayer(nn.Module):
+    def forward(self, x, mask):
+        # Apply the mask to set NaN values to zero
+        masked_x = torch.where(torch.isnan(x), torch.zeros_like(x), x)
+        return masked_x
+
+

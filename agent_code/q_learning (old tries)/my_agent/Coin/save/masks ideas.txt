@@ -1,0 +1,215 @@
+
+def forward(self, inputs):
+        branch_outputs = []
+
+        for i, branch in enumerate(self.branches):
+            # Create a mask to identify NaN values in the input tensor
+            nan_mask = torch.isnan(inputs[i])
+
+            # Replace NaN values with zeros in the input tensor
+            inputs[i][nan_mask] = 0.0
+
+            branch_output = branch(inputs[i])
+            branch_outputs.append(branch_output)
+
+        combined_output = torch.cat(branch_outputs, dim=1)  # Concatenate along dimension 1
+
+        final_output = self.final_layer(combined_output)
+
+"""
+def forward(self, inputs):
+        branch_outputs = []
+
+        # Initialize masks for NaN values
+        nan_masks = [torch.isnan(input_tensor) for input_tensor in inputs]
+
+        for i, (branch, nan_mask) in enumerate(zip(self.branches, nan_masks)):
+            # Apply masks to set NaN values to 0
+            masked_input = torch.where(nan_mask, torch.zeros_like(inputs[i]), inputs[i])
+            branch_output = branch(masked_input)
+            branch_outputs.append(branch_output)
+
+        combined_output = torch.cat(branch_outputs, dim=1)
+        final_output = self.final_layer(combined_output)
+"""
+"""
+def forward(self, inputs, nan_masks):
+        branch_outputs = []
+        for i, branch in enumerate(self.branches):
+            masked_input = inputs[i] * (1 - nan_masks[i])  # Multiply by (1 - mask) to set NaN values to 0
+            branch_output = branch(masked_input)
+            branch_outputs.append(branch_output)
+        
+        # Concatenate branch outputs
+        combined_output = torch.cat(branch_outputs, dim=1)
+        
+        # Calculate the final output
+        final_output = self.final_layer(combined_output)
+"""
+"""
+def forward(self, inputs):
+        branch_outputs = []
+
+        for i, branch in enumerate(self.branches):
+            input_tensor = inputs[i]
+
+            # Create a mask to identify NaN values in the input tensor
+            nan_mask = torch.isnan(input_tensor)
+
+            # Replace NaN values with zeros (or any other desired value)
+            input_tensor[nan_mask] = 0.0
+
+            branch_output = branch(input_tensor)
+            branch_outputs.append(branch_output)
+
+        combined_output = torch.cat(branch_outputs, dim=1)  # Concatenate along the feature dimension
+        final_output = self.final_layer(combined_output)
+"""
+
+"""
+def forward(self, inputs):
+        branch_outputs = []
+
+        for i, branch in enumerate(self.branches):
+            # Apply mask to replace NaN values with zeros before passing to the branch
+            input_with_mask = torch.where(torch.isnan(inputs[i]), torch.zeros_like(inputs[i]), inputs[i])
+            branch_output = branch(input_with_mask)
+            branch_outputs.append(branch_output)
+
+        # Combine branch outputs
+        combined_output = torch.cat(branch_outputs, dim=1)
+
+        # Pass through the final layer
+        final_output = self.final_layer(combined_output)
+"""
+"""
+def forward(self, inputs):
+        branch_outputs = []
+
+        # Iterate over input tensors
+        for i, branch in enumerate(self.branches):
+            input_tensor = inputs[i]
+
+            # Create a mask to identify NaN values
+            nan_mask = torch.isnan(input_tensor)
+
+            # Replace NaN values with 0
+            input_tensor[nan_mask] = 0.0
+
+            # Pass the modified tensor through the branch
+            branch_output = branch(input_tensor)
+            branch_outputs.append(branch_output)
+
+        combined_output = torch.cat(branch_outputs, dim=-1)
+
+        final_output = self.final_layer(combined_output)
+"""
+"""
+def forward(self, inputs, masks):
+        branch_outputs = []
+        for i, branch in enumerate(self.branches):
+            # Apply the mask to the input tensor
+            masked_input = inputs[i] * masks[i]
+
+            # Pass the masked input through the branch
+            branch_output = branch(masked_input)
+            branch_outputs.append(branch_output)
+
+        # Combine the branch outputs
+        combined_output = torch.cat(branch_outputs, dim=1)
+
+        # Pass the combined output through the final layer
+        final_output = self.final_layer(combined_output)
+"""
+"""
+def forward(self, inputs):
+        branch_outputs = []
+        for i, (branch, input_tensor) in enumerate(zip(self.branches, inputs)):
+            # Identify NaN values and create a mask
+            nan_mask = torch.isnan(input_tensor)
+            
+            # Replace NaN values with 0
+            input_tensor[nan_mask] = 0.0
+            
+            # Pass the tensor through the branch
+            branch_output = branch(input_tensor)
+            
+            # Apply the mask to set the output corresponding to NaN values back to 0
+            branch_output[nan_mask] = 0.0
+            
+            branch_outputs.append(branch_output)
+        
+        # Concatenate branch outputs
+        combined_output = torch.cat(branch_outputs, dim=1)
+        
+        # Pass through the final layer
+        final_output = self.final_layer(combined_output)
+"""
+"""
+def forward(self, inputs):
+        branch_outputs = []
+        for i, branch in enumerate(self.branches):
+            input_tensor = inputs[i]
+            # Create a mask to identify NaN values
+            nan_mask = torch.isnan(input_tensor)
+            
+            # Set NaN values to 0 using the mask
+            masked_input = input_tensor.clone()
+            masked_input[nan_mask] = 0.0
+            
+            # Pass the masked input through the branch
+            branch_output = branch(masked_input)
+            
+            # Apply the mask again to the branch output
+            branch_output[nan_mask] = 0.0
+            
+            branch_outputs.append(branch_output)
+        
+        combined_output = torch.cat(branch_outputs, dim=1)  # Concatenate along the feature dimension
+        final_output = self.final_layer(combined_output)
+        return final_output.squeeze()
+"""
+
+def forward(self, inputs):
+    branch_outputs = []
+    for i, branch in enumerate(self.branches):
+        input_tensor = inputs[i]
+        # Create a mask to identify NaN values
+        nan_mask = torch.isnan(input_tensor)
+        nan_mask = nan_mask.unsqueeze(1).expand_as(inputs[i])
+
+        # Set NaN values to 0 using the mask
+        masked_input = input_tensor.clone()
+        masked_input[nan_mask] = 0.0
+        
+        # Pass the masked input through the branch
+        branch_output = branch(masked_input)
+        
+        branch_outputs.append(branch_output)
+    
+    combined_output = torch.cat(branch_outputs, dim=1)  # Concatenate along the feature dimension
+    final_output = self.final_layer(combined_output)
+    return final_output.squeeze()
+
+
+"""
+def forward(self, inputs):
+        branch_outputs = []
+        
+        for i, branch in enumerate(self.branches):
+            # Create a mask for NaN values in the input tensor
+            nan_mask = torch.isnan(inputs[i])
+            nan_mask = nan_mask.unsqueeze(1).expand_as(inputs[i])
+
+            # Set NaN values to 0 to ensure they don't influence the network
+            inputs[i][nan_mask] = 0.0
+
+            branch_output = branch(inputs[i])
+            branch_outputs.append(branch_output)
+        
+        combined_output = torch.cat(branch_outputs, dim=0)
+        final_output = self.final_layer(combined_output)
+        
+        return final_output.squeeze()
+"""
+
